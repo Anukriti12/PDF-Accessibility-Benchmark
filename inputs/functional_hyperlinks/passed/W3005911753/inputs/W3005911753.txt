@@ -1,0 +1,61 @@
+All links in the pdf document:
+Page Number 1: External Link -> URL: http://arxiv.org/abs/2002.05042v1 at Rect(10.9399995803833, 149.82000732421875, 37.619998931884766, 596.0)
+Page Number 1: Internal Link -> From Rect(244.6439971923828, 283.2149963378906, 250.67999267578125, 293.6759948730469) to point Point(57.545999, 581.43057) on page 4 at named destination cite.RN33
+Page Number 1: Internal Link -> From Rect(159.8040008544922, 329.0559997558594, 165.83999633789062, 339.5159912109375) to point Point(57.545999, 560.3518) on page 4 at named destination cite.RN22
+Page Number 1: Internal Link -> From Rect(169.88400268554688, 329.0559997558594, 175.9199981689453, 339.5159912109375) to point Point(57.545999, 486.8773) on page 4 at named destination cite.RN26
+Page Number 1: Internal Link -> From Rect(111.56400299072266, 351.9750061035156, 117.5999984741211, 362.4360046386719) to point Point(57.545999, 444.84025) on page 4 at named destination cite.Jiang283
+Page Number 1: Internal Link -> From Rect(121.52400207519531, 351.9750061035156, 127.55999755859375, 362.4360046386719) to point Point(57.545999, 371.36576) on page 4 at named destination cite.RN25
+Page Number 1: Internal Link -> From Rect(238.16400146484375, 351.9750061035156, 244.1999969482422, 362.4360046386719) to point Point(57.545999, 350.40748) on page 4 at named destination cite.RN23
+Page Number 1: Internal Link -> From Rect(269.2439880371094, 351.9750061035156, 280.32000732421875, 362.4360046386719) to point Point(53.9325, 318.84956) on page 4 at named destination cite.RN29
+Page Number 1: Internal Link -> From Rect(127.40399932861328, 420.7349853515625, 138.47999572753906, 431.1960144042969) to point Point(53.9325, 276.93299) on page 4 at named destination cite.Noh2018
+Page Number 1: Internal Link -> From Rect(142.4040069580078, 420.7349853515625, 153.47999572753906, 431.1960144042969) to point Point(53.9325, 161.42139) on page 4 at named destination cite.PhysRevB.97.224428
+Page Number 1: Internal Link -> From Rect(135.56399536132812, 489.375, 146.63999938964844, 499.83599853515625) to point Point(53.9325, 150.82184) on page 4 at named destination cite.RN31
+Page Number 1: Internal Link -> From Rect(116.36399841308594, 500.8949890136719, 127.44000244140625, 511.3559875488281) to point Point(53.9325, 98.42609) on page 4 at named destination cite.RevModPhys.89.025008
+Page Number 1: Internal Link -> From Rect(129.6840057373047, 549.9749755859375, 140.75999450683594, 560.43603515625) to point Point(317.95887, 581.43057) on page 4 at named destination cite.Iwasa2015
+Page Number 1: Internal Link -> From Rect(144.6840057373047, 549.9749755859375, 155.75999450683594, 560.43603515625) to point Point(317.95887, 507.8356) on page 4 at named destination cite.Arita2015
+Page Number 1: Internal Link -> From Rect(406.8840026855469, 679.2149658203125, 417.9599914550781, 689.676025390625) to point Point(317.95887, 486.8773) on page 4 at named destination cite.Bea2018
+Page Number 2: Internal Link -> From Rect(158.7239990234375, 643.2149658203125, 169.8000030517578, 653.676025390625) to point Point(317.95887, 444.84025) on page 4 at named destination cite.PhysRevB.99.014433
+Page Number 2: Internal Link -> From Rect(129.32400512695312, 689.0549926757812, 140.39999389648438, 699.5161743164062) to point Point(317.95887, 413.4028) on page 4 at named destination cite.PhysRevLett.118.147201
+Page Number 2: Internal Link -> From Rect(356.60400390625, 89.0040283203125, 363.635986328125, 97.35601806640625) to point Point(371.55915, 287.46406) on page 0 at named destination figure.1
+Page Number 2: Internal Link -> From Rect(480.6839904785156, 169.16400146484375, 487.59600830078125, 177.635986328125) to point Point(371.55915, 287.46406) on page 0 at named destination figure.1
+Page Number 2: Internal Link -> From Rect(318.8039855957031, 190.09600830078125, 329.8800048828125, 200.5560302734375) to point Point(317.95887, 381.8449) on page 4 at named destination cite.LL_elast
+Page Number 2: Internal Link -> From Rect(357.2040100097656, 237.92401123046875, 364.1159973144531, 246.39599609375) to point Point(95.728649, 461.15296) on page 1 at named destination figure.2
+Page Number 2: Internal Link -> From Rect(519.9240112304688, 249.4439697265625, 526.9559936523438, 257.7960205078125) to point Point(95.728649, 461.15296) on page 1 at named destination figure.2
+Page Number 2: Internal Link -> From Rect(335.1239929199219, 487.93499755859375, 346.20001220703125, 498.39599609375) to point Point(317.95887, 350.40748) on page 4 at named destination cite.PhysRevLett.114.047201
+Page Number 2: Internal Link -> From Rect(500.2439880371094, 501.4440002441406, 507.2760009765625, 509.9159851074219) to point Point(371.55915, 287.46406) on page 0 at named destination figure.1
+Page Number 2: Internal Link -> From Rect(511.16400146484375, 547.2839965820312, 518.0759887695312, 555.635986328125) to point Point(371.55915, 287.46406) on page 0 at named destination figure.1
+Page Number 2: Internal Link -> From Rect(516.4439697265625, 591.0150146484375, 527.52001953125, 601.4760131835938) to point Point(317.95887, 350.40748) on page 4 at named destination cite.PhysRevLett.114.047201
+Page Number 2: Internal Link -> From Rect(548.364013671875, 591.0150146484375, 559.4400024414062, 601.4760131835938) to point Point(317.95887, 318.84956) on page 4 at named destination cite.PhysRevB.88.184404
+Page Number 2: Internal Link -> From Rect(421.6440124511719, 689.1749877929688, 432.7200012207031, 699.63623046875) to point Point(317.95887, 287.41209) on page 4 at named destination cite.Ding2013
+Page Number 2: Internal Link -> From Rect(454.28399658203125, 689.1749877929688, 465.3599853515625, 699.63623046875) to point Point(317.95887, 255.85422) on page 4 at named destination cite.Karis2012
+Page Number 3: Internal Link -> From Rect(164.48399353027344, 297.2040100097656, 171.51600646972656, 305.6759948730469) to point Point(90.91065, 539.5659) on page 2 at named destination figure.3
+Page Number 3: Internal Link -> From Rect(248.843994140625, 363.9750061035156, 254.8800048828125, 374.4360046386719) to point Point(57.545999, 560.3518) on page 4 at named destination cite.RN22
+Page Number 3: Internal Link -> From Rect(121.16400146484375, 432.7349853515625, 132.24000549316406, 443.1960144042969) to point Point(317.95887, 213.8172) on page 4 at named destination cite.PhysRevLett.44.1538
+Page Number 3: Internal Link -> From Rect(210.8040008544922, 530.843994140625, 217.83599853515625, 539.1959838867188) to point Point(355.41883, 630.6261) on page 2 at named destination figure.4
+Page Number 3: Internal Link -> From Rect(145.28399658203125, 611.0040283203125, 152.3159942626953, 619.4760131835938) to point Point(355.41883, 630.6261) on page 2 at named destination figure.4
+Page Number 3: Internal Link -> From Rect(289.16400146484375, 622.5239868164062, 296.1960144042969, 630.8759765625) to point Point(64.89345, 292.5074) on page 2 at named destination equation.0.2
+Page Number 3: Internal Link -> From Rect(410.9639892578125, 311.2439880371094, 417.9960021972656, 319.59600830078125) to point Point(92.59695, 542.69766) on page 3 at named destination figure.5
+Page Number 3: Internal Link -> From Rect(497.9639892578125, 411.2040100097656, 504.9960021972656, 419.5559997558594) to point Point(64.89345, 292.5074) on page 2 at named destination equation.0.2
+Page Number 3: Internal Link -> From Rect(434.2439880371094, 445.52398681640625, 441.2760009765625, 453.8760070800781) to point Point(355.41883, 630.6261) on page 2 at named destination figure.4
+Page Number 3: Internal Link -> From Rect(375.6839904785156, 479.843994140625, 382.71600341796875, 488.3160095214844) to point Point(355.41883, 630.6261) on page 2 at named destination figure.4
+Page Number 3: Internal Link -> From Rect(530.1240234375, 554.89501953125, 541.2000122070312, 565.3560180664062) to point Point(317.95887, 203.33802) on page 4 at named destination cite.PhysRevB.95.214422
+Page Number 3: Internal Link -> From Rect(412.04400634765625, 602.7239990234375, 418.95599365234375, 611.1959838867188) to point Point(92.59695, 542.69766) on page 3 at named destination figure.5
+Page Number 4: Internal Link -> From Rect(97.52369689941406, 302.9320068359375, 107.63999938964844, 312.39599609375) to point Point(317.95887, 203.33802) on page 4 at named destination cite.PhysRevB.95.214422
+Page Number 4: Internal Link -> From Rect(99.68370056152344, 564.8040161132812, 105.2760009765625, 573.635986328125) to point Point(363.85035, 723.73397) on page 3 at named destination table.1
+Page Number 4: Internal Link -> From Rect(74.60369873046875, 576.6840209960938, 81.63629913330078, 585.0360107421875) to point Point(90.91065, 539.5659) on page 2 at named destination figure.3
+Page Number 4: Internal Link -> From Rect(556.5239868164062, 71.9639892578125, 563.0759887695312, 79.71600341796875) to point Point(90.91065, 539.5659) on page 2 at named destination figure.3
+Page Number 4: Internal Link -> From Rect(334.6440124511719, 82.40399169921875, 341.3160095214844, 90.156005859375) to point Point(92.59695, 542.69766) on page 3 at named destination figure.5
+Page Number 4: Internal Link -> From Rect(343.52398681640625, 329.5350036621094, 354.6000061035156, 339.9960021972656) to point Point(317.95887, 161.42139) on page 4 at named destination cite.Carman
+Page Number 4: Internal Link -> From Rect(463.28399658203125, 459.8039855957031, 470.3160095214844, 468.2760009765625) to point Point(90.91065, 539.5659) on page 2 at named destination figure.3
+Page Number 4: Internal Link -> From Rect(478.40399169921875, 471.3240051269531, 485.3160095214844, 479.6759948730469) to point Point(95.728649, 461.15296) on page 1 at named destination figure.2
+Page Number 4: Internal Link -> From Rect(545.60400390625, 480.7349853515625, 556.6799926757812, 491.1960144042969) to point Point(317.95887, 119.3844) on page 4 at named destination cite.OOMMF
+Page Number 4: Internal Link -> From Rect(456.6839904785156, 494.2439880371094, 463.59600830078125, 502.59600830078125) to point Point(95.728649, 461.15296) on page 1 at named destination figure.2
+Page Number 4: Internal Link -> From Rect(417.6839904785156, 549.4949951171875, 428.760009765625, 559.9559936523438) to point Point(317.95887, 255.85422) on page 4 at named destination cite.Karis2012
+Page Number 4: Internal Link -> From Rect(495.92401123046875, 702.6837158203125, 502.95599365234375, 711.1561889648438) to point Point(95.728649, 461.15296) on page 1 at named destination figure.2
+Page Number 5: External Link -> URL: http://dx.doi.org/10.1038/srep13302 at Rect(327.8039855957031, 294.5639953613281, 466.3559875488281, 305.5559997558594)
+Page Number 5: External Link -> URL: http://dx.doi.org/10.1103/PhysRevB.99.014433 at Rect(404.364013671875, 367.7640075683594, 535.1160278320312, 378.7560119628906)
+Page Number 5: External Link -> URL: http://dx.doi.org/10.1103/PhysRevLett.118.147201 at Rect(327.8039855957031, 399.2040100097656, 476.9159851074219, 410.07598876953125)
+Page Number 5: External Link -> URL: http://dx.doi.org/10.1103/PhysRevLett.114.047201 at Rect(327.8039855957031, 461.9639892578125, 476.9159851074219, 472.83599853515625)
+Page Number 5: External Link -> URL: http://dx.doi.org/10.1103/PhysRevB.88.184404 at Rect(327.8039855957031, 493.28399658203125, 458.5559997558594, 504.2760009765625)
+Page Number 5: External Link -> URL: http://dx.doi.org/10.1103/PhysRevLett.44.1538 at Rect(425.843994140625, 576.9240112304688, 560.5560302734375, 587.916015625)
+Page Number 5: External Link -> URL: http://dx.doi.org/10.6028/NIST.IR.6376 at Rect(327.8039855957031, 682.0440063476562, 472.83599853515625, 690.2760009765625)

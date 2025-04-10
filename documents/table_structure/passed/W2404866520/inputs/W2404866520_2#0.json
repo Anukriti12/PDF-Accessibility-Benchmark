@@ -1,0 +1,2525 @@
+{
+  "S": "Table",
+  "ID": "AD241024-0845-1125-ADBE-000000014788",
+  "ObjId": "205",
+  "A": [
+    {
+      "ADBE_NumCol": "6",
+      "ADBE_NumRow": "4",
+      "O": "Table"
+    },
+    {
+      "BBox": [
+        "141.593994",
+        "36.771801",
+        "561.577026",
+        "88.249702"
+      ],
+      "O": "Layout",
+      "Placement": "Block",
+      "SpaceAfter": "8.5"
+    },
+    {
+      "ADBE_TableClass": "Hybrid",
+      "ADBE_TableProcess": "Neptune",
+      "O": "ADBE_Table"
+    }
+  ],
+  "Type": "StructElem",
+  "K": [
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000014789",
+      "ObjId": "864",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "R1C1_Develope_AD241024-0845-1125-ADBE-000000014790",
+          "ObjId": "726",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "141.593994",
+                "68.330505",
+                "224.151016",
+                "88.249702"
+              ],
+              "BackgroundColor": [
+                "0.803925",
+                "0.803925",
+                "0.803925"
+              ],
+              "BlockAlign": "After",
+              "Height": "19.874998",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "82.375"
+            },
+            {
+              "ADBE_Confidence": "87",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014791",
+              "Text": "Developer ",
+              "ObjId": "336",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.375",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "174",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "145.327301",
+                        "69.8267975",
+                        "173.870499",
+                        "76.476799"
+                      ],
+                      "Text": "Develope"
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "174.804291",
+                        "71.3247986",
+                        "176.925293",
+                        "74.964798"
+                      ],
+                      "Text": "r "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C2_total_(n_AD241024-0845-1125-ADBE-000000014793",
+          "ObjId": "729",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "224.151016",
+                "68.330505",
+                "285.587982",
+                "88.249702"
+              ],
+              "BackgroundColor": [
+                "0.803925",
+                "0.803925",
+                "0.803925"
+              ],
+              "BlockAlign": "After",
+              "Height": "19.874998",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "61.5"
+            },
+            {
+              "ADBE_Confidence": "88",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014794",
+              "Text": "total (n = 218) ",
+              "ObjId": "337",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.375",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "175",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "235.438293",
+                        "70.1907959",
+                        "257.843201",
+                        "76.7707977"
+                      ],
+                      "Text": "total (n"
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014796",
+                  "Text": "=",
+                  "ObjId": "338",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "176",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "258.888275",
+                            "72.3117981",
+                            "262.570282",
+                            "74.0548019"
+                          ],
+                          "Text": "="
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "177",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "263.102295",
+                        "71.3247986",
+                        "268.985779",
+                        "76.028801"
+                      ],
+                      "Text": "21"
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "270.088318",
+                        "70.1907959",
+                        "276.031311",
+                        "76.7707977"
+                      ],
+                      "Text": "8) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C3_Clearanc_AD241024-0845-1125-ADBE-000000014799",
+          "ObjId": "733",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "285.587982",
+                "68.330505",
+                "355.906006",
+                "88.249702"
+              ],
+              "BackgroundColor": [
+                "0.803925",
+                "0.803925",
+                "0.803925"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "19.874998",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "70.375"
+            },
+            {
+              "ADBE_Confidence": "78",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014800",
+              "Text": "Clearance or approval (n = 99) ",
+              "ObjId": "339",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.5",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "178",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "296.499298",
+                        "79.6828003",
+                        "335.436798",
+                        "84.9748001"
+                      ],
+                      "Text": "Clearance or "
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "296.464294",
+                        "69.8267975",
+                        "330.916901",
+                        "76.7707977"
+                      ],
+                      "Text": "approval (n"
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014802",
+                  "Text": "=",
+                  "ObjId": "340",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "179",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "331.961304",
+                            "72.3117981",
+                            "335.643311",
+                            "74.0548019"
+                          ],
+                          "Text": "="
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "180",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "336.378296",
+                        "70.9608002",
+                        "339.619293",
+                        "76.0357971"
+                      ],
+                      "Text": "9"
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "340.536285",
+                        "70.1907959",
+                        "346.178284",
+                        "76.7707977"
+                      ],
+                      "Text": "9) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C4_510k_(n=_AD241024-0845-1125-ADBE-000000014805",
+          "ObjId": "737",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "355.906006",
+                "68.330505",
+                "416.862976",
+                "88.249702"
+              ],
+              "BackgroundColor": [
+                "0.803925",
+                "0.803925",
+                "0.803925"
+              ],
+              "BlockAlign": "After",
+              "Height": "19.874998",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "61"
+            },
+            {
+              "ADBE_Confidence": "78",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014806",
+              "Text": "510k (n = 78) ",
+              "ObjId": "341",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.375",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "181",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "366.898315",
+                        "70.1907959",
+                        "387.897614",
+                        "76.7707977"
+                      ],
+                      "Text": "510k (n"
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014808",
+                  "Text": "=",
+                  "ObjId": "342",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "182",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "388.948273",
+                            "72.3117981",
+                            "392.63028",
+                            "74.0548019"
+                          ],
+                          "Text": "="
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "183",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "393.057312",
+                        "71.0447998",
+                        "396.200317",
+                        "75.9237976"
+                      ],
+                      "Text": "7"
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "396.865295",
+                        "70.1907959",
+                        "402.808289",
+                        "76.7707977"
+                      ],
+                      "Text": "8) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C5_Premarke_AD241024-0845-1125-ADBE-000000014811",
+          "ObjId": "868",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "416.862976",
+                "68.330505",
+                "482.5",
+                "88.249702"
+              ],
+              "BackgroundColor": [
+                "0.803925",
+                "0.803925",
+                "0.803925"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "19.874998",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.624992"
+            },
+            {
+              "ADBE_Confidence": "81",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014812",
+              "ObjId": "741",
+              "A": [
+                {
+                  "LineHeight": "8.5",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014813",
+                  "Text": "Premarket ",
+                  "ObjId": "343",
+                  "Pg": "1",
+                  "A": [
+                    {
+                      "O": "Layout",
+                      "Placement": "Block"
+                    }
+                  ],
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "184",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "423.983307",
+                            "79.6828003",
+                            "456.055206",
+                            "84.9888"
+                          ],
+                          "Text": "Premarket "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014815",
+                  "Text": "approval (n = 17) ",
+                  "ObjId": "344",
+                  "Pg": "1",
+                  "A": [
+                    {
+                      "O": "Layout",
+                      "Placement": "Block"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "185",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "423.738312",
+                            "69.8267975",
+                            "458.190918",
+                            "76.7707977"
+                          ],
+                          "Text": "approval (n"
+                        }
+                      ]
+                    },
+                    {
+                      "S": "Span",
+                      "ID": "AD241024-0845-1125-ADBE-000000014817",
+                      "Text": "=",
+                      "ObjId": "345",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "186",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "459.235291",
+                                "72.3117981",
+                                "462.917297",
+                                "74.0548019"
+                              ],
+                              "Text": "="
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "Pg": "1",
+                      "MCID": "187",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "463.330292",
+                            "71.0447998",
+                            "469.434296",
+                            "75.9517975"
+                          ],
+                          "Text": "17"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "469.777313",
+                            "70.1907959",
+                            "472.171295",
+                            "76.7707977"
+                          ],
+                          "Text": ") "
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C6_Humanita_AD241024-0845-1125-ADBE-000000014820",
+          "ObjId": "747",
+          "A": [
+            {
+              "ADBE_ColIndex": "5",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "482.5",
+                "68.330505",
+                "561.577026",
+                "88.249702"
+              ],
+              "BackgroundColor": [
+                "0.803925",
+                "0.803925",
+                "0.803925"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "19.874998",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "79.124992"
+            },
+            {
+              "ADBE_Confidence": "90",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014821",
+              "Text": "Humanitarian device exemption (n = 4) ",
+              "ObjId": "346",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.5",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "188",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "493.395325",
+                        "79.6828003",
+                        "557.856201",
+                        "84.9817963"
+                      ],
+                      "Text": "Humanitarian device "
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "493.185333",
+                        "69.8267975",
+                        "533.325439",
+                        "76.7707977"
+                      ],
+                      "Text": "exemption (n"
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014823",
+                  "Text": "=",
+                  "ObjId": "347",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "189",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "534.366333",
+                            "72.3117981",
+                            "538.048279",
+                            "74.0548019"
+                          ],
+                          "Text": "="
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "190",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "538.860291",
+                        "70.1907959",
+                        "544.6073",
+                        "76.7707977"
+                      ],
+                      "Text": "4) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000014826",
+      "ObjId": "865",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000014827",
+          "ObjId": "751",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "1",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "141.593994",
+                "57.650898",
+                "224.151016",
+                "68.450508"
+              ],
+              "BackgroundColor": [
+                "0.933334",
+                "0.933334",
+                "0.933334"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0.803925",
+                  "0.803925",
+                  "0.803925"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.75",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "82.375"
+            },
+            {
+              "ADBE_Confidence": "91",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014828",
+              "Text": "Academia alone ",
+              "ObjId": "348",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "191",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "144.804794",
+                        "60.256897",
+                        "192.84256",
+                        "65.6509018"
+                      ],
+                      "Text": "Academia alone "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014830",
+          "ObjId": "754",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "1",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "224.151016",
+                "57.650898",
+                "285.587982",
+                "68.450508"
+              ],
+              "BackgroundColor": [
+                "0.933334",
+                "0.933334",
+                "0.933334"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0.803925",
+                  "0.803925",
+                  "0.803925"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.75",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "61.5"
+            },
+            {
+              "ADBE_Confidence": "90",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014831",
+              "Text": "46 ",
+              "ObjId": "349",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "192",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "235.596542",
+                        "60.169899",
+                        "243.36853",
+                        "65.3753967"
+                      ],
+                      "Text": "46 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014833",
+          "ObjId": "757",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "1",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "285.587982",
+                "57.650898",
+                "355.906006",
+                "68.450508"
+              ],
+              "BackgroundColor": [
+                "0.933334",
+                "0.933334",
+                "0.933334"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0.803925",
+                  "0.803925",
+                  "0.803925"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.75",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "70.375"
+            },
+            {
+              "ADBE_Confidence": "87",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014834",
+              "Text": "5 ",
+              "ObjId": "350",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "193",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "296.648804",
+                        "60.1119003",
+                        "299.788055",
+                        "65.0491486"
+                      ],
+                      "Text": "5 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014836",
+          "ObjId": "760",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "1",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "355.906006",
+                "57.650898",
+                "416.862976",
+                "68.450508"
+              ],
+              "BackgroundColor": [
+                "0.933334",
+                "0.933334",
+                "0.933334"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0.803925",
+                  "0.803925",
+                  "0.803925"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.75",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "61"
+            },
+            {
+              "ADBE_Confidence": "82",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014837",
+              "Text": "5 ",
+              "ObjId": "351",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "194",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "367.126038",
+                        "60.1119003",
+                        "370.265289",
+                        "65.0491486"
+                      ],
+                      "Text": "5 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014839",
+          "ObjId": "763",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "1",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "416.862976",
+                "57.650898",
+                "482.5",
+                "68.450508"
+              ],
+              "BackgroundColor": [
+                "0.933334",
+                "0.933334",
+                "0.933334"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0.803925",
+                  "0.803925",
+                  "0.803925"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.75",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.624992"
+            },
+            {
+              "ADBE_Confidence": "85",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014840",
+              "Text": "0 ",
+              "ObjId": "352",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "195",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "423.763031",
+                        "60.2713966",
+                        "427.438782",
+                        "65.15065"
+                      ],
+                      "Text": "0 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014842",
+          "ObjId": "766",
+          "A": [
+            {
+              "ADBE_ColIndex": "5",
+              "ADBE_RowIndex": "1",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "482.5",
+                "57.650898",
+                "561.577026",
+                "68.450508"
+              ],
+              "BackgroundColor": [
+                "0.933334",
+                "0.933334",
+                "0.933334"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0.803925",
+                  "0.803925",
+                  "0.803925"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.75",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "79.124992"
+            },
+            {
+              "ADBE_Confidence": "91",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014843",
+              "Text": "0 ",
+              "ObjId": "353",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "196",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "493.174561",
+                        "60.2713966",
+                        "496.850311",
+                        "65.15065"
+                      ],
+                      "Text": "0 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000014845",
+      "ObjId": "866",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000014846",
+          "ObjId": "871",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "2",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "141.593994",
+                "47.211399",
+                "224.151016",
+                "57.8909"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "82.375"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014847",
+              "ObjId": "769",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000014848",
+                  "Text": "Academia and industry ",
+                  "ObjId": "354",
+                  "Pg": "1",
+                  "A": [
+                    {
+                      "BackgroundColor": [
+                        "0.952942",
+                        "0.952942",
+                        "0.952942"
+                      ],
+                      "O": "Layout"
+                    }
+                  ],
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "197",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "144.812073",
+                            "48.4176521",
+                            "214.125717",
+                            "55.1819"
+                          ],
+                          "Text": "Academia and industry "
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014850",
+          "ObjId": "772",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "224.151016",
+                "47.211399",
+                "285.587982",
+                "57.8909"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "61.5"
+            },
+            {
+              "ADBE_Confidence": "91",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014851",
+              "Text": "32 ",
+              "ObjId": "355",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "198",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "235.669083",
+                        "49.657402",
+                        "242.803085",
+                        "54.6816521"
+                      ],
+                      "Text": "32 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014853",
+          "ObjId": "775",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "285.587982",
+                "47.211399",
+                "355.906006",
+                "57.8909"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "70.375"
+            },
+            {
+              "ADBE_Confidence": "89",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014854",
+              "Text": "13 ",
+              "ObjId": "356",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "199",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "296.561829",
+                        "49.657402",
+                        "302.731567",
+                        "54.6816521"
+                      ],
+                      "Text": "13 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014856",
+          "ObjId": "778",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "355.906006",
+                "47.211399",
+                "416.862976",
+                "57.8909"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "61"
+            },
+            {
+              "ADBE_Confidence": "84",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014857",
+              "Text": "10 ",
+              "ObjId": "357",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "200",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "367.039062",
+                        "49.8023987",
+                        "373.600311",
+                        "54.6816521"
+                      ],
+                      "Text": "10 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014859",
+          "ObjId": "781",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "416.862976",
+                "47.211399",
+                "482.5",
+                "57.8909"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.624992"
+            },
+            {
+              "ADBE_Confidence": "86",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014860",
+              "Text": "1 ",
+              "ObjId": "358",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "201",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "423.842834",
+                        "49.8894005",
+                        "426.815338",
+                        "54.6236496"
+                      ],
+                      "Text": "1 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014862",
+          "ObjId": "784",
+          "A": [
+            {
+              "ADBE_ColIndex": "5",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "482.5",
+                "47.211399",
+                "561.577026",
+                "57.8909"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.125",
+                "0",
+                "0"
+              ],
+              "Height": "10.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "79.124992"
+            },
+            {
+              "ADBE_Confidence": "90",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014863",
+              "Text": "2 ",
+              "ObjId": "359",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "202",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "493.261566",
+                        "49.8894005",
+                        "496.538544",
+                        "54.6816521"
+                      ],
+                      "Text": "2 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000014865",
+      "ObjId": "807",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000014866",
+          "ObjId": "787",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "3",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "141.593994",
+                "36.531799",
+                "224.151016",
+                "47.451401"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "10.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "82.375"
+            },
+            {
+              "ADBE_Confidence": "92",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014867",
+              "Text": "Industry alone ",
+              "ObjId": "360",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "203",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "145.40657",
+                        "37.9486542",
+                        "188.194626",
+                        "44.7129021"
+                      ],
+                      "Text": "Industry alone "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014869",
+          "ObjId": "790",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "224.151016",
+                "36.531799",
+                "285.587982",
+                "47.451401"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "10.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "61.5"
+            },
+            {
+              "ADBE_Confidence": "89",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014870",
+              "Text": "140 ",
+              "ObjId": "361",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "204",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "235.74881",
+                        "39.2319031",
+                        "241.976562",
+                        "44.1546516"
+                      ],
+                      "Text": "14"
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "242.83931",
+                        "39.3334007",
+                        "246.283051",
+                        "44.2126541"
+                      ],
+                      "Text": "0 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014872",
+          "ObjId": "793",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "285.587982",
+                "36.531799",
+                "355.906006",
+                "47.451401"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "10.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "70.375"
+            },
+            {
+              "ADBE_Confidence": "87",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014873",
+              "Text": "81 ",
+              "ObjId": "362",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "205",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "296.503845",
+                        "39.3334007",
+                        "303.652344",
+                        "44.2126541"
+                      ],
+                      "Text": "81 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014875",
+          "ObjId": "796",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "355.906006",
+                "36.531799",
+                "416.862976",
+                "47.451401"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "10.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "61"
+            },
+            {
+              "ADBE_Confidence": "81",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014876",
+              "Text": "63 ",
+              "ObjId": "363",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "206",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "367.039093",
+                        "39.1884041",
+                        "374.078827",
+                        "44.4374008"
+                      ],
+                      "Text": "63 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014878",
+          "ObjId": "799",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "416.862976",
+                "36.531799",
+                "482.5",
+                "47.451401"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "10.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.624992"
+            },
+            {
+              "ADBE_Confidence": "84",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014879",
+              "Text": "16 ",
+              "ObjId": "364",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "207",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "423.850067",
+                        "39.3334007",
+                        "430.121307",
+                        "44.4374008"
+                      ],
+                      "Text": "16 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000014881",
+          "ObjId": "802",
+          "A": [
+            {
+              "ADBE_ColIndex": "5",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "482.5",
+                "36.531799",
+                "561.577026",
+                "47.451401"
+              ],
+              "BackgroundColor": [
+                "0.952942",
+                "0.952942",
+                "0.952942"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.125",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "10.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "79.124992"
+            },
+            {
+              "ADBE_Confidence": "88",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000014882",
+              "Text": "2 ",
+              "ObjId": "365",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "8.75",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "208",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "493.268799",
+                        "39.4204025",
+                        "496.545776",
+                        "44.2126541"
+                      ],
+                      "Text": "2 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

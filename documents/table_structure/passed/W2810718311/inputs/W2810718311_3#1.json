@@ -1,0 +1,6375 @@
+{
+  "S": "Table",
+  "ID": "AD241024-0845-1125-ADBE-000000007318",
+  "ObjId": "399",
+  "A": [
+    {
+      "ADBE_NumCol": "5",
+      "ADBE_NumRow": "17",
+      "O": "Table"
+    },
+    {
+      "BBox": [
+        "306.947998",
+        "144.386002",
+        "552.578003",
+        "343.578003"
+      ],
+      "O": "Layout",
+      "Placement": "Block",
+      "SpaceAfter": "13.125001"
+    },
+    {
+      "ADBE_TableClass": "Hybrid",
+      "ADBE_TableProcess": "Neptune",
+      "O": "ADBE_Table"
+    }
+  ],
+  "Type": "StructElem",
+  "K": [
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007319",
+      "ObjId": "1435",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "R1C1_Characte_AD241024-0845-1125-ADBE-000000007320",
+          "ObjId": "1147",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Both"
+            },
+            {
+              "ADBE_BBox": [
+                "309.467987",
+                "320.539001",
+                "372.105011",
+                "343.578003"
+              ],
+              "BlockAlign": "After",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.625",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "23",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "62.625"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007321",
+              "Text": "Characteristic ",
+              "ObjId": "610",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "165",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.772003",
+                        "324.940582",
+                        "344.656006",
+                        "330.88208"
+                      ],
+                      "Text": "Characteristic "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C2_tDCS_gro_AD241024-0845-1125-ADBE-000000007323",
+          "ObjId": "1150",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "320.539001",
+                "424.662994",
+                "343.578003"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.625",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "23",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007324",
+              "Text": "tDCS group ( n  39) ",
+              "ObjId": "611",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "9.5",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "166",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "379.718475",
+                        "332.811584",
+                        "408.658447",
+                        "340.283081"
+                      ],
+                      "Text": "tDCS group "
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "380.109497",
+                        "323.988586",
+                        "381.554474",
+                        "330.88208"
+                      ],
+                      "Text": "("
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007326",
+                  "Text": "n ",
+                  "ObjId": "612",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "167",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "381.809509",
+                            "325.000092",
+                            "384.826996",
+                            "329.182098"
+                          ],
+                          "Text": "n"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "385.107483",
+                            "325.000092",
+                            "385.107483",
+                            "325.000092"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007328",
+                  "Text": "",
+                  "ObjId": "613",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "168",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "387.785004",
+                            "326.793579",
+                            "392.799988",
+                            "328.697601"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "169",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "395.723999",
+                        "323.988586",
+                        "404.181488",
+                        "330.88208"
+                      ],
+                      "Text": "39) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C3_Sham_gro_AD241024-0845-1125-ADBE-000000007331",
+          "ObjId": "1155",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "320.539001",
+                "476.741028",
+                "343.578003"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.625",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "23",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007332",
+              "Text": "Sham group ( n  42) ",
+              "ObjId": "614",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "9.5",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "170",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "432.308014",
+                        "332.811584",
+                        "463.797943",
+                        "340.385071"
+                      ],
+                      "Text": "Sham group "
+                    },
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "432.563019",
+                        "323.988586",
+                        "434.007996",
+                        "330.88208"
+                      ],
+                      "Text": "("
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007334",
+                  "Text": "n ",
+                  "ObjId": "615",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "171",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "434.263031",
+                            "325.000092",
+                            "437.280518",
+                            "329.182098"
+                          ],
+                          "Text": "n"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "437.561005",
+                            "325.000092",
+                            "437.561005",
+                            "325.000092"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007336",
+                  "Text": "",
+                  "ObjId": "616",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "172",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "440.238525",
+                            "326.793579",
+                            "445.25351",
+                            "328.697601"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "173",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "448.092529",
+                        "323.988586",
+                        "456.63501",
+                        "330.88208"
+                      ],
+                      "Text": "42) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C4_Statisti_AD241024-0845-1125-ADBE-000000007339",
+          "ObjId": "1161",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "320.539001",
+                "526.299011",
+                "343.578003"
+              ],
+              "BlockAlign": "After",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.625",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "23",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007340",
+              "Text": "Statistic b ",
+              "ObjId": "617",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "174",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "484.761505",
+                        "324.940582",
+                        "505.255005",
+                        "330.78009"
+                      ],
+                      "Text": "Statistic"
+                    }
+                  ]
+                },
+                {
+                  "S": "Reference",
+                  "ID": "AD241024-0845-1125-ADBE-000000007342",
+                  "ObjId": "1160",
+                  "A": [
+                    {
+                      "BaselineShift": "3.625",
+                      "O": "Layout",
+                      "TextPosition": "Sup"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Link",
+                      "Text": "b ",
+                      "ObjId": "731",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "305",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "505.469391",
+                                "328.461578",
+                                "507.679382",
+                                "332.306091"
+                              ],
+                              "Text": "b"
+                            },
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "507.828888",
+                                "328.500092",
+                                "507.828888",
+                                "328.500092"
+                              ],
+                              "Text": " "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TH",
+          "ID": "R1C5_p_value__AD241024-0845-1125-ADBE-000000007344",
+          "ObjId": "1165",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "0",
+              "O": "Table",
+              "Scope": "Column"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "320.539001",
+                "552.578003",
+                "343.578003"
+              ],
+              "BlockAlign": "After",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.625",
+                "0.25",
+                "0",
+                "0"
+              ],
+              "Height": "23",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007345",
+              "Text": "p value ",
+              "ObjId": "619",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007346",
+                  "Text": "p ",
+                  "ObjId": "618",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "176",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "533.614319",
+                            "323.376587",
+                            "536.937805",
+                            "329.182098"
+                          ],
+                          "Text": "p"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "537.141785",
+                            "325.000092",
+                            "537.141785",
+                            "325.000092"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "177",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "538.578308",
+                        "324.940582",
+                        "552.543823",
+                        "330.88208"
+                      ],
+                      "Text": "value "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007349",
+      "ObjId": "1436",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "R2C1_Sex__AD241024-0845-1125-ADBE-000000007350",
+          "ObjId": "1168",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "1",
+              "ColSpan": "5",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "308.540009",
+                "552.578003",
+                "321.139008"
+              ],
+              "BlockAlign": "After",
+              "BorderColor": [
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "Solid",
+                "None",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0.25",
+                "0",
+                "0",
+                "0"
+              ],
+              "Height": "12.625001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "245.625015"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007351",
+              "Text": "Sex ",
+              "ObjId": "620",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "178",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.741302",
+                        "309.462067",
+                        "318.547302",
+                        "315.284576"
+                      ],
+                      "Text": "Sex "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007353",
+      "ObjId": "1437",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007354",
+          "ObjId": "1171",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "2",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "297.97998",
+                "372.105011",
+                "308.540009"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.5",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007355",
+              "Text": "Female ",
+              "ObjId": "621",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "179",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "318.513306",
+                        "299.440582",
+                        "337.03479",
+                        "305.38208"
+                      ],
+                      "Text": "Female "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007357",
+          "ObjId": "1174",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "297.97998",
+                "424.662994",
+                "308.540009"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.5",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007358",
+              "Text": "24 ",
+              "ObjId": "622",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "180",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "389.726288",
+                        "299.500092",
+                        "395.999298",
+                        "305.093079"
+                      ],
+                      "Text": "24 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007360",
+          "ObjId": "1177",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "297.97998",
+                "476.741028",
+                "308.540009"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.5",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007361",
+              "Text": "21 ",
+              "ObjId": "623",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "181",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "442.179779",
+                        "299.500092",
+                        "448.452789",
+                        "305.093079"
+                      ],
+                      "Text": "21 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007363",
+          "ObjId": "1183",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "297.97998",
+                "526.299011",
+                "308.540009"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.5",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "84",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007364",
+              "ObjId": "1179",
+              "A": [
+                {
+                  "LineHeight": "10.375",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007365",
+                  "Text": "",
+                  "ObjId": "624",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "182",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "484.461914",
+                            "297.723602",
+                            "489.605865",
+                            "303.25708"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Reference",
+                  "ID": "AD241024-0845-1125-ADBE-000000007367",
+                  "ObjId": "1416",
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Link",
+                      "Text": "2 ",
+                      "ObjId": "732",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "306",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "489.450928",
+                                "303.000092",
+                                "491.745422",
+                                "306.61908"
+                              ],
+                              "Text": "2 "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007369",
+              "Text": " 1.09 ",
+              "ObjId": "626",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007370",
+                  "Text": "",
+                  "ObjId": "625",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "184",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.421692",
+                            "301.29068",
+                            "499.436676",
+                            "303.194702"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "185",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "502.658173",
+                        "299.437683",
+                        "513.589172",
+                        "305.090179"
+                      ],
+                      "Text": "1.09 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007373",
+          "ObjId": "1186",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "2",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "297.97998",
+                "552.578003",
+                "308.540009"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.5",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "78",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007374",
+              "Text": "0.30 ",
+              "ObjId": "627",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "186",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.108154",
+                        "299.437683",
+                        "545.345154",
+                        "305.090179"
+                      ],
+                      "Text": "0.30 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007376",
+      "ObjId": "1438",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007377",
+          "ObjId": "1189",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "3",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "287.901001",
+                "372.105011",
+                "297.97998"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007378",
+              "Text": "Male ",
+              "ObjId": "628",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "187",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "318.378204",
+                        "289.433197",
+                        "330.839203",
+                        "295.374695"
+                      ],
+                      "Text": "Male "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007380",
+          "ObjId": "1192",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "287.901001",
+                "424.662994",
+                "297.97998"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007381",
+              "Text": "15 ",
+              "ObjId": "629",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "188",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "389.990692",
+                        "289.433197",
+                        "396.000214",
+                        "295.0177"
+                      ],
+                      "Text": "15 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007383",
+          "ObjId": "1195",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "3",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "287.901001",
+                "476.741028",
+                "297.97998"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007384",
+              "Text": "21 ",
+              "ObjId": "630",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "189",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "442.180695",
+                        "289.492706",
+                        "448.453705",
+                        "295.085693"
+                      ],
+                      "Text": "21 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007388",
+      "ObjId": "1439",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007389",
+          "ObjId": "1198",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "4",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "267.741028",
+                "372.105011",
+                "287.901001"
+              ],
+              "BlockAlign": "Before",
+              "Height": "20.125",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "96",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007390",
+              "Text": "Age ",
+              "ObjId": "631",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "190",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.691223",
+                        "277.796692",
+                        "319.678711",
+                        "285.217194"
+                      ],
+                      "Text": "Age "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007392",
+          "ObjId": "1456",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "4",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "267.741028",
+                "424.662994",
+                "287.901001"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "20.125",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "89",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "L",
+              "ID": "AD241024-0845-1125-ADBE-000000010172",
+              "ObjId": "1673",
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "LI",
+                  "ID": "AD241024-0845-1125-ADBE-000000007393",
+                  "ObjId": "1200",
+                  "A": [
+                    {
+                      "LineHeight": "10.25",
+                      "O": "Layout"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Lbl",
+                      "ID": "AD241024-0845-1125-ADBE-000000007394",
+                      "Text": "20.26 ",
+                      "ObjId": "632",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "191",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "384.65271",
+                                "279.42868",
+                                "399.11972",
+                                "285.081177"
+                              ],
+                              "Text": "20.26 "
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "S": "LBody",
+                      "ID": "AD241024-0845-1125-ADBE-000000007396",
+                      "Text": "years ",
+                      "ObjId": "633",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "192",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "400.556213",
+                                "277.686188",
+                                "414.130707",
+                                "283.670197"
+                              ],
+                              "Text": "years "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "LI",
+                  "ID": "AD241024-0845-1125-ADBE-000000007398",
+                  "ObjId": "1203",
+                  "A": [
+                    {
+                      "LineHeight": "10.25",
+                      "O": "Layout"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Lbl",
+                      "ID": "AD241024-0845-1125-ADBE-000000007399",
+                      "Text": "(4.13 ",
+                      "ObjId": "634",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "193",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "388.613708",
+                                "267.979187",
+                                "401.737701",
+                                "274.872681"
+                              ],
+                              "Text": "(4.13 "
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "S": "LBody",
+                      "ID": "AD241024-0845-1125-ADBE-000000007401",
+                      "Text": "years) ",
+                      "ObjId": "635",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "194",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "403.174225",
+                                "267.18869",
+                                "418.899231",
+                                "274.872681"
+                              ],
+                              "Text": "years) "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007403",
+          "ObjId": "1457",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "4",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "267.741028",
+                "476.741028",
+                "287.901001"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "20.125",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "L",
+              "ID": "AD241024-0845-1125-ADBE-000000010173",
+              "ObjId": "1678",
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "LI",
+                  "ID": "AD241024-0845-1125-ADBE-000000007404",
+                  "ObjId": "1206",
+                  "A": [
+                    {
+                      "LineHeight": "10.25",
+                      "O": "Layout"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Lbl",
+                      "ID": "AD241024-0845-1125-ADBE-000000007405",
+                      "Text": "20.17 ",
+                      "ObjId": "636",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "195",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "437.106201",
+                                "279.42868",
+                                "451.573212",
+                                "285.081177"
+                              ],
+                              "Text": "20.17 "
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "S": "LBody",
+                      "ID": "AD241024-0845-1125-ADBE-000000007407",
+                      "Text": "years ",
+                      "ObjId": "637",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "196",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "453.009705",
+                                "277.686188",
+                                "466.584198",
+                                "283.670197"
+                              ],
+                              "Text": "years "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "LI",
+                  "ID": "AD241024-0845-1125-ADBE-000000007409",
+                  "ObjId": "1209",
+                  "A": [
+                    {
+                      "LineHeight": "10.25",
+                      "O": "Layout"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Lbl",
+                      "ID": "AD241024-0845-1125-ADBE-000000007410",
+                      "Text": "(2.36 ",
+                      "ObjId": "638",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "197",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "441.06723",
+                                "267.979187",
+                                "454.191223",
+                                "274.872681"
+                              ],
+                              "Text": "(2.36 "
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "S": "LBody",
+                      "ID": "AD241024-0845-1125-ADBE-000000007412",
+                      "Text": "years) ",
+                      "ObjId": "639",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "198",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "455.627716",
+                                "267.18869",
+                                "471.352722",
+                                "274.872681"
+                              ],
+                              "Text": "years) "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007414",
+          "ObjId": "1215",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "4",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "267.741028",
+                "526.299011",
+                "287.901001"
+              ],
+              "BlockAlign": "Before",
+              "Height": "20.125",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007415",
+              "Text": "t  0.12 ",
+              "ObjId": "642",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007416",
+                  "Text": "t ",
+                  "ObjId": "640",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "199",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.010223",
+                            "279.445679",
+                            "492.024719",
+                            "284.562683"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.7612",
+                            "279.48819",
+                            "491.7612",
+                            "279.48819"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007418",
+                  "Text": "",
+                  "ObjId": "641",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "200",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.438721",
+                            "281.281677",
+                            "508.181519",
+                            "283.185699"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "201",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.449707",
+                        "279.42868",
+                        "520.686707",
+                        "285.081177"
+                      ],
+                      "Text": "0.12 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007421",
+          "ObjId": "1218",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "4",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "267.741028",
+                "552.578003",
+                "287.901001"
+              ],
+              "BlockAlign": "Before",
+              "Height": "20.125",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007422",
+              "Text": "0.90 ",
+              "ObjId": "643",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "202",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.125183",
+                        "279.42868",
+                        "545.362183",
+                        "285.081177"
+                      ],
+                      "Text": "0.90 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007424",
+      "ObjId": "1440",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "R6C1_Race__AD241024-0845-1125-ADBE-000000007425",
+          "ObjId": "1221",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "5",
+              "ColSpan": "5",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "257.662018",
+                "552.578003",
+                "267.741028"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.125001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "245.625015"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007426",
+              "Text": "Race ",
+              "ObjId": "644",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "203",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "310.03125",
+                        "258.926697",
+                        "321.744232",
+                        "264.740692"
+                      ],
+                      "Text": "Race "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007428",
+      "ObjId": "1429",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007429",
+          "ObjId": "1224",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "6",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "247.46199",
+                "372.105011",
+                "257.662018"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.25",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007430",
+              "Text": "Caucasian ",
+              "ObjId": "645",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "204",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "318.293243",
+                        "248.922195",
+                        "343.886749",
+                        "254.761688"
+                      ],
+                      "Text": "Caucasian "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007432",
+          "ObjId": "1227",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "6",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "247.46199",
+                "424.662994",
+                "257.662018"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007433",
+              "Text": "17 ",
+              "ObjId": "646",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "205",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "390.007721",
+                        "248.981689",
+                        "396.017242",
+                        "254.506683"
+                      ],
+                      "Text": "17 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007435",
+          "ObjId": "1230",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "6",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "247.46199",
+                "476.741028",
+                "257.662018"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007436",
+              "Text": "19 ",
+              "ObjId": "647",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "206",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "442.461212",
+                        "248.922195",
+                        "448.470734",
+                        "254.574692"
+                      ],
+                      "Text": "19 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007438",
+          "ObjId": "1236",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "6",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "247.46199",
+                "526.299011",
+                "257.662018"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007439",
+              "ObjId": "1232",
+              "A": [
+                {
+                  "LineHeight": "10.375",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007440",
+                  "Text": "",
+                  "ObjId": "648",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "207",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "484.461914",
+                            "247.223495",
+                            "489.605865",
+                            "252.757004"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Reference",
+                  "ID": "AD241024-0845-1125-ADBE-000000007442",
+                  "ObjId": "1417",
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Link",
+                      "Text": "2 ",
+                      "ObjId": "733",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "307",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "489.450928",
+                                "252.5",
+                                "491.745422",
+                                "256.118988"
+                              ],
+                              "Text": "2 "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007444",
+              "Text": " 0.02 ",
+              "ObjId": "650",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007445",
+                  "Text": "",
+                  "ObjId": "649",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "209",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.421692",
+                            "250.790695",
+                            "499.436676",
+                            "252.694687"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "210",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "502.352173",
+                        "248.937698",
+                        "513.589172",
+                        "254.590195"
+                      ],
+                      "Text": "0.02 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007448",
+          "ObjId": "1239",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "6",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "247.46199",
+                "552.578003",
+                "257.662018"
+              ],
+              "BlockAlign": "After",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007449",
+              "Text": "0.88 ",
+              "ObjId": "651",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "211",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.108154",
+                        "248.937698",
+                        "545.345154",
+                        "254.590195"
+                      ],
+                      "Text": "0.88 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007451",
+      "ObjId": "1441",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007452",
+          "ObjId": "1242",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "7",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "237.503006",
+                "372.105011",
+                "247.46199"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007453",
+              "Text": "Non-Caucasian ",
+              "ObjId": "652",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "212",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "318.514221",
+                        "238.933197",
+                        "356.891724",
+                        "244.77269"
+                      ],
+                      "Text": "Non-Caucasian "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007455",
+          "ObjId": "1245",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "7",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "237.503006",
+                "424.662994",
+                "247.46199"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007456",
+              "Text": "22 ",
+              "ObjId": "653",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "213",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "389.727203",
+                        "238.992691",
+                        "396.000214",
+                        "244.585693"
+                      ],
+                      "Text": "22 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007458",
+          "ObjId": "1248",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "7",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "237.503006",
+                "476.741028",
+                "247.46199"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007459",
+              "Text": "23 ",
+              "ObjId": "654",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "214",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "442.180695",
+                        "238.933197",
+                        "448.453705",
+                        "244.585693"
+                      ],
+                      "Text": "23 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007463",
+      "ObjId": "1442",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007464",
+          "ObjId": "1252",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "8",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "227.303009",
+                "372.105011",
+                "237.503006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007465",
+              "Text": "Grade point average c ",
+              "ObjId": "655",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "215",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.7677",
+                        "227.296692",
+                        "361.91861",
+                        "234.870193"
+                      ],
+                      "Text": "Grade point average"
+                    }
+                  ]
+                },
+                {
+                  "S": "Reference",
+                  "ID": "AD241024-0845-1125-ADBE-000000007467",
+                  "ObjId": "1251",
+                  "A": [
+                    {
+                      "BaselineShift": "3.625",
+                      "O": "Layout",
+                      "TextPosition": "Sup"
+                    }
+                  ],
+                  "Type": "StructElem",
+                  "K": [
+                    {
+                      "S": "Link",
+                      "Text": "c ",
+                      "ObjId": "734",
+                      "Pg": "1",
+                      "K": [
+                        {
+                          "Pg": "1",
+                          "MCID": "308",
+                          "Content": [
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "362.303314",
+                                "232.472504",
+                                "364.181824",
+                                "235.2005"
+                              ],
+                              "Text": "c"
+                            },
+                            {
+                              "Type": "Text",
+                              "BBox": [
+                                "364.032318",
+                                "232.5",
+                                "364.032318",
+                                "232.5"
+                              ],
+                              "Text": " "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007469",
+          "ObjId": "1255",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "8",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "227.303009",
+                "424.662994",
+                "237.503006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007470",
+              "Text": "3.55 (0.27) ",
+              "ObjId": "656",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "217",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "383.12439",
+                        "227.988495",
+                        "411.76767",
+                        "234.882004"
+                      ],
+                      "Text": "3.55 (0.27) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007472",
+          "ObjId": "1258",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "8",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "227.303009",
+                "476.741028",
+                "237.503006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007473",
+              "Text": "3.47 (0.33) ",
+              "ObjId": "657",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "218",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "435.577881",
+                        "227.988495",
+                        "464.221161",
+                        "234.882004"
+                      ],
+                      "Text": "3.47 (0.33) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007475",
+          "ObjId": "1263",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "8",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "227.303009",
+                "526.299011",
+                "237.503006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007476",
+              "Text": "t  1.18 ",
+              "ObjId": "660",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007477",
+                  "Text": "t ",
+                  "ObjId": "658",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "219",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.003387",
+                            "228.957504",
+                            "492.017883",
+                            "234.074493"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.754395",
+                            "229",
+                            "491.754395",
+                            "229"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007479",
+                  "Text": "",
+                  "ObjId": "659",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "220",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.431885",
+                            "230.793503",
+                            "508.174683",
+                            "232.697495"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "221",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.748871",
+                        "228.940506",
+                        "520.679871",
+                        "234.593002"
+                      ],
+                      "Text": "1.18 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007482",
+          "ObjId": "1266",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "8",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "227.303009",
+                "552.578003",
+                "237.503006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007483",
+              "Text": "0.24 ",
+              "ObjId": "661",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "222",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.118408",
+                        "228.940506",
+                        "545.355408",
+                        "234.593002"
+                      ],
+                      "Text": "0.24 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007485",
+      "ObjId": "1443",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007486",
+          "ObjId": "1269",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "9",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "217.103012",
+                "372.105011",
+                "227.303009"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007487",
+              "Text": "Social adversity ",
+              "ObjId": "662",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "223",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.752411",
+                        "217.193497",
+                        "349.708344",
+                        "224.877502"
+                      ],
+                      "Text": "Social adversity "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007489",
+          "ObjId": "1272",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "9",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "217.103012",
+                "424.662994",
+                "227.303009"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007490",
+              "Text": "0.72 (1.15) ",
+              "ObjId": "663",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "224",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "383.132904",
+                        "217.983994",
+                        "411.784698",
+                        "224.877502"
+                      ],
+                      "Text": "0.72 (1.15) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007492",
+          "ObjId": "1275",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "9",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "217.103012",
+                "476.741028",
+                "227.303009"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007493",
+              "Text": "1.45 (1.67) ",
+              "ObjId": "664",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "225",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "435.892395",
+                        "217.983994",
+                        "464.23819",
+                        "224.877502"
+                      ],
+                      "Text": "1.45 (1.67) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007495",
+          "ObjId": "1280",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "9",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "217.103012",
+                "526.299011",
+                "227.303009"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007496",
+              "Text": "t  2.32 ",
+              "ObjId": "667",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007497",
+                  "Text": "t ",
+                  "ObjId": "665",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "226",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.020386",
+                            "218.953003",
+                            "492.034882",
+                            "224.069992"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.771393",
+                            "218.995499",
+                            "491.771393",
+                            "218.995499"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007499",
+                  "Text": "",
+                  "ObjId": "666",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "227",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.448914",
+                            "220.789001",
+                            "499.463898",
+                            "222.692993"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "228",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "502.421906",
+                        "218.936005",
+                        "513.616394",
+                        "224.588501"
+                      ],
+                      "Text": "2.32 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007502",
+          "ObjId": "1283",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "9",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "217.103012",
+                "552.578003",
+                "227.303009"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.25",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007503",
+              "Text": "0.02 ",
+              "ObjId": "668",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "229",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.135376",
+                        "218.936005",
+                        "545.372375",
+                        "224.588501"
+                      ],
+                      "Text": "0.02 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007505",
+      "ObjId": "1444",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007506",
+          "ObjId": "1286",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "10",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "207.143997",
+                "372.105011",
+                "217.103012"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007507",
+              "Text": "Variety of offending ",
+              "ObjId": "669",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "230",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.667389",
+                        "207.188995",
+                        "361.359314",
+                        "214.940994"
+                      ],
+                      "Text": "Variety of offending "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007509",
+          "ObjId": "1289",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "10",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "207.143997",
+                "424.662994",
+                "217.103012"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007510",
+              "Text": "17.36 (6.25) ",
+              "ObjId": "670",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "231",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "380.18338",
+                        "207.979492",
+                        "411.801697",
+                        "214.873001"
+                      ],
+                      "Text": "17.36 (6.25) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007512",
+          "ObjId": "1292",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "10",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "207.143997",
+                "476.741028",
+                "217.103012"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007513",
+              "Text": "16.38 (6.22) ",
+              "ObjId": "671",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "232",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "432.636902",
+                        "207.979492",
+                        "464.255219",
+                        "214.873001"
+                      ],
+                      "Text": "16.38 (6.22) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007515",
+          "ObjId": "1297",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "10",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "207.143997",
+                "526.299011",
+                "217.103012"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007516",
+              "Text": "t  0.71 ",
+              "ObjId": "674",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007517",
+                  "Text": "t ",
+                  "ObjId": "672",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "233",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.0289",
+                            "208.948502",
+                            "492.043396",
+                            "214.065491"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.779907",
+                            "208.990997",
+                            "491.779907",
+                            "208.990997"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007519",
+                  "Text": "",
+                  "ObjId": "673",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "234",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.457397",
+                            "210.7845",
+                            "508.200195",
+                            "212.688492"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "235",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.468384",
+                        "208.931503",
+                        "520.705383",
+                        "214.584"
+                      ],
+                      "Text": "0.71 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007522",
+          "ObjId": "1300",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "10",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "207.143997",
+                "552.578003",
+                "217.103012"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007523",
+              "Text": "0.48 ",
+              "ObjId": "675",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "236",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.143921",
+                        "208.931503",
+                        "545.38092",
+                        "214.584"
+                      ],
+                      "Text": "0.48 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007525",
+      "ObjId": "1445",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007526",
+          "ObjId": "1303",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "11",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "197.184006",
+                "372.105011",
+                "207.143997"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007527",
+              "Text": "Aggression ",
+              "ObjId": "676",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "237",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.726929",
+                        "197.294998",
+                        "338.388916",
+                        "204.723999"
+                      ],
+                      "Text": "Aggression "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007529",
+          "ObjId": "1306",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "11",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "197.184006",
+                "424.662994",
+                "207.143997"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007530",
+              "Text": "9.92 (4.97) ",
+              "ObjId": "677",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "238",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "383.183899",
+                        "197.974991",
+                        "411.810181",
+                        "204.8685"
+                      ],
+                      "Text": "9.92 (4.97) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007532",
+          "ObjId": "1309",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "11",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "197.184006",
+                "476.741028",
+                "207.143997"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007533",
+              "Text": "8.86 (4.48) ",
+              "ObjId": "678",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "239",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "435.620392",
+                        "197.974991",
+                        "464.263672",
+                        "204.8685"
+                      ],
+                      "Text": "8.86 (4.48) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007535",
+          "ObjId": "1314",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "11",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "197.184006",
+                "526.299011",
+                "207.143997"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007536",
+              "Text": "t  1.02 ",
+              "ObjId": "681",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007537",
+                  "Text": "t ",
+                  "ObjId": "679",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "240",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.045898",
+                            "198.944",
+                            "492.060394",
+                            "204.060989"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.796906",
+                            "198.986496",
+                            "491.796906",
+                            "198.986496"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007539",
+                  "Text": "",
+                  "ObjId": "680",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "241",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.474396",
+                            "200.779999",
+                            "508.217194",
+                            "202.68399"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "242",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.791382",
+                        "198.927002",
+                        "520.722412",
+                        "204.579498"
+                      ],
+                      "Text": "1.02 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007542",
+          "ObjId": "1317",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "11",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "197.184006",
+                "552.578003",
+                "207.143997"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007543",
+              "Text": "0.31 ",
+              "ObjId": "682",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "243",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.160889",
+                        "198.927002",
+                        "545.397888",
+                        "204.579498"
+                      ],
+                      "Text": "0.31 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007545",
+      "ObjId": "1446",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007546",
+          "ObjId": "1320",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "12",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "187.105011",
+                "372.105011",
+                "197.184006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007547",
+              "Text": "Psychopathy ",
+              "ObjId": "683",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "244",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "310.066925",
+                        "187.179993",
+                        "342.6474",
+                        "194.863998"
+                      ],
+                      "Text": "Psychopathy "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007549",
+          "ObjId": "1323",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "12",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "187.105011",
+                "424.662994",
+                "197.184006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007550",
+              "Text": "23.33 (11.85) ",
+              "ObjId": "684",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "245",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "379.945404",
+                        "187.97049",
+                        "415.099701",
+                        "194.863998"
+                      ],
+                      "Text": "23.33 (11.85) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007552",
+          "ObjId": "1326",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "12",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "187.105011",
+                "476.741028",
+                "197.184006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007553",
+              "Text": "23.02 (12.65) ",
+              "ObjId": "685",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "246",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "432.398895",
+                        "187.97049",
+                        "467.553192",
+                        "194.863998"
+                      ],
+                      "Text": "23.02 (12.65) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007555",
+          "ObjId": "1331",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "12",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "187.105011",
+                "526.299011",
+                "197.184006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007556",
+              "Text": "t  0.11 ",
+              "ObjId": "688",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007557",
+                  "Text": "t ",
+                  "ObjId": "686",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "247",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.054413",
+                            "188.939499",
+                            "492.068909",
+                            "194.056488"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.805389",
+                            "188.981995",
+                            "491.805389",
+                            "188.981995"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007559",
+                  "Text": "",
+                  "ObjId": "687",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "248",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.48291",
+                            "190.775497",
+                            "508.225708",
+                            "192.679489"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "249",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.493896",
+                        "188.922501",
+                        "520.730896",
+                        "194.574997"
+                      ],
+                      "Text": "0.11 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007562",
+          "ObjId": "1334",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "12",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "187.105011",
+                "552.578003",
+                "197.184006"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007563",
+              "Text": "0.91 ",
+              "ObjId": "689",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "250",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.169373",
+                        "188.922501",
+                        "545.406372",
+                        "194.574997"
+                      ],
+                      "Text": "0.91 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007565",
+      "ObjId": "1447",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007566",
+          "ObjId": "1337",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "13",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "177.264999",
+                "372.105011",
+                "187.105011"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007567",
+              "Text": "Lack of premeditation ",
+              "ObjId": "690",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "251",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "310.075409",
+                        "177.353989",
+                        "366.586792",
+                        "184.92749"
+                      ],
+                      "Text": "Lack of premeditation "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007569",
+          "ObjId": "1340",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "13",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "177.264999",
+                "424.662994",
+                "187.105011"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007570",
+              "Text": "1.59 (0.49) ",
+              "ObjId": "691",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "252",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "383.489899",
+                        "177.965988",
+                        "411.835693",
+                        "184.859497"
+                      ],
+                      "Text": "1.59 (0.49) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007572",
+          "ObjId": "1343",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "13",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "177.264999",
+                "476.741028",
+                "187.105011"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007573",
+              "Text": "1.63 (0.49) ",
+              "ObjId": "692",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "253",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "435.94339",
+                        "177.965988",
+                        "464.289185",
+                        "184.859497"
+                      ],
+                      "Text": "1.63 (0.49) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007575",
+          "ObjId": "1348",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "13",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "177.264999",
+                "526.299011",
+                "187.105011"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007576",
+              "Text": "t  0.38 ",
+              "ObjId": "695",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007577",
+                  "Text": "t ",
+                  "ObjId": "693",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "254",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.071411",
+                            "178.934998",
+                            "492.085907",
+                            "184.051987"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.822388",
+                            "178.977493",
+                            "491.822388",
+                            "178.977493"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007579",
+                  "Text": "",
+                  "ObjId": "694",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "255",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.499908",
+                            "180.770996",
+                            "499.514893",
+                            "182.674988"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "256",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "502.430389",
+                        "178.917999",
+                        "513.667419",
+                        "184.570496"
+                      ],
+                      "Text": "0.38 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007582",
+          "ObjId": "1351",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "13",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "177.264999",
+                "552.578003",
+                "187.105011"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007583",
+              "Text": "0.71 ",
+              "ObjId": "696",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "257",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.186401",
+                        "178.917999",
+                        "545.423401",
+                        "184.570496"
+                      ],
+                      "Text": "0.71 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007585",
+      "ObjId": "1448",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007586",
+          "ObjId": "1354",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "14",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "167.185013",
+                "372.105011",
+                "177.264999"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007587",
+              "Text": "Sensation-seeking ",
+              "ObjId": "697",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "258",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.820404",
+                        "167.281494",
+                        "357.564911",
+                        "174.854996"
+                      ],
+                      "Text": "Sensation-seeking "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007589",
+          "ObjId": "1357",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "14",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "167.185013",
+                "424.662994",
+                "177.264999"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007590",
+              "Text": "2.89 (0.65) ",
+              "ObjId": "698",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "259",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "383.243408",
+                        "167.961487",
+                        "411.852692",
+                        "174.854996"
+                      ],
+                      "Text": "2.89 (0.65) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007592",
+          "ObjId": "1360",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "14",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "167.185013",
+                "476.741028",
+                "177.264999"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007593",
+              "Text": "2.88 (0.65) ",
+              "ObjId": "699",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "260",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "435.696899",
+                        "167.961487",
+                        "464.306183",
+                        "174.854996"
+                      ],
+                      "Text": "2.88 (0.65) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007595",
+          "ObjId": "1365",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "14",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "167.185013",
+                "526.299011",
+                "177.264999"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007596",
+              "Text": "t  0.07 ",
+              "ObjId": "702",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007597",
+                  "Text": "t ",
+                  "ObjId": "700",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "261",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.088409",
+                            "168.930496",
+                            "492.102905",
+                            "174.047485"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.839417",
+                            "168.972992",
+                            "491.839417",
+                            "168.972992"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007599",
+                  "Text": "",
+                  "ObjId": "701",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "262",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.516907",
+                            "170.766495",
+                            "508.259705",
+                            "172.670486"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "263",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.527893",
+                        "168.913498",
+                        "520.764893",
+                        "174.565994"
+                      ],
+                      "Text": "0.07 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007602",
+          "ObjId": "1368",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "14",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "167.185013",
+                "552.578003",
+                "177.264999"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "10.125001",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007603",
+              "Text": "0.94 ",
+              "ObjId": "703",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "264",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.203369",
+                        "168.913498",
+                        "545.440369",
+                        "174.565994"
+                      ],
+                      "Text": "0.94 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007605",
+      "ObjId": "1449",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007606",
+          "ObjId": "1371",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "15",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "157.345993",
+                "372.105011",
+                "167.185013"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007607",
+              "Text": "Anxiety ",
+              "ObjId": "704",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "265",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.786438",
+                        "157.166504",
+                        "329.387421",
+                        "164.706009"
+                      ],
+                      "Text": "Anxiety "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007609",
+          "ObjId": "1374",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "15",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "157.345993",
+                "424.662994",
+                "167.185013"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007610",
+              "Text": "38.79 (8.53) ",
+              "ObjId": "705",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "266",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "379.953918",
+                        "157.957001",
+                        "411.86972",
+                        "164.85051"
+                      ],
+                      "Text": "38.79 (8.53) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007612",
+          "ObjId": "1377",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "15",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "157.345993",
+                "476.741028",
+                "167.185013"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "95",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007613",
+              "Text": "38.43 (9.25) ",
+              "ObjId": "706",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "267",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "432.40741",
+                        "157.957001",
+                        "464.323212",
+                        "164.85051"
+                      ],
+                      "Text": "38.43 (9.25) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007615",
+          "ObjId": "1382",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "15",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "157.345993",
+                "526.299011",
+                "167.185013"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "94",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007616",
+              "Text": "t  0.19 ",
+              "ObjId": "709",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007617",
+                  "Text": "t ",
+                  "ObjId": "707",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "268",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.096924",
+                            "158.92601",
+                            "492.11142",
+                            "164.042999"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.8479",
+                            "158.968506",
+                            "491.8479",
+                            "158.968506"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007619",
+                  "Text": "",
+                  "ObjId": "708",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "269",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.525421",
+                            "160.762009",
+                            "508.268219",
+                            "162.666"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "270",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.536407",
+                        "158.909012",
+                        "520.773438",
+                        "164.561508"
+                      ],
+                      "Text": "0.19 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007622",
+          "ObjId": "1385",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "15",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "157.345993",
+                "552.578003",
+                "167.185013"
+              ],
+              "BlockAlign": "Middle",
+              "Height": "9.875",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "93",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007623",
+              "Text": "0.85 ",
+              "ObjId": "710",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "271",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.211914",
+                        "158.909012",
+                        "545.448914",
+                        "164.561508"
+                      ],
+                      "Text": "0.85 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "S": "TR",
+      "ID": "AD241024-0845-1125-ADBE-000000007625",
+      "ObjId": "1450",
+      "Type": "StructElem",
+      "K": [
+        {
+          "S": "TH",
+          "ID": "AD241024-0845-1125-ADBE-000000007626",
+          "ObjId": "1388",
+          "A": [
+            {
+              "ADBE_ColIndex": "0",
+              "ADBE_RowIndex": "16",
+              "O": "Table",
+              "Scope": "Row"
+            },
+            {
+              "ADBE_BBox": [
+                "306.947998",
+                "143.785995",
+                "372.105011",
+                "157.345993"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                "",
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "None",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.625",
+                "0",
+                "0"
+              ],
+              "Height": "13.5",
+              "InlineAlign": "Start",
+              "O": "Layout",
+              "Width": "65.124992"
+            },
+            {
+              "ADBE_Confidence": "90",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007627",
+              "Text": "Self-control ",
+              "ObjId": "711",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "272",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "309.845917",
+                        "148.904495",
+                        "339.995422",
+                        "154.913986"
+                      ],
+                      "Text": "Self-control "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007629",
+          "ObjId": "1391",
+          "A": [
+            {
+              "ADBE_ColIndex": "1",
+              "ADBE_RowIndex": "16",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "372.105011",
+                "143.785995",
+                "424.662994",
+                "157.345993"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                "",
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "None",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.625",
+                "0",
+                "0"
+              ],
+              "Height": "13.5",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.5"
+            },
+            {
+              "ADBE_Confidence": "92",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007630",
+              "Text": "37.05 (6.69) ",
+              "ObjId": "712",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "273",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "379.962402",
+                        "147.952484",
+                        "411.878204",
+                        "154.845993"
+                      ],
+                      "Text": "37.05 (6.69) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007632",
+          "ObjId": "1394",
+          "A": [
+            {
+              "ADBE_ColIndex": "2",
+              "ADBE_RowIndex": "16",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "424.662994",
+                "143.785995",
+                "476.741028",
+                "157.345993"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                "",
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "None",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.625",
+                "0",
+                "0"
+              ],
+              "Height": "13.5",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "52.125"
+            },
+            {
+              "ADBE_Confidence": "92",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007633",
+              "Text": "35.52 (7.18) ",
+              "ObjId": "713",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "274",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "432.415924",
+                        "147.952484",
+                        "464.331726",
+                        "154.845993"
+                      ],
+                      "Text": "35.52 (7.18) "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007635",
+          "ObjId": "1399",
+          "A": [
+            {
+              "ADBE_ColIndex": "3",
+              "ADBE_RowIndex": "16",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "476.741028",
+                "143.785995",
+                "526.299011",
+                "157.345993"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                "",
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "None",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.625",
+                "0",
+                "0"
+              ],
+              "Height": "13.5",
+              "InlineAlign": "End",
+              "O": "Layout",
+              "Width": "49.5"
+            },
+            {
+              "ADBE_Confidence": "92",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007636",
+              "Text": "t  0.99 ",
+              "ObjId": "716",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "Type": "StructElem",
+              "K": [
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007637",
+                  "Text": "t ",
+                  "ObjId": "714",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "275",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "490.105408",
+                            "148.921494",
+                            "492.119904",
+                            "154.038483"
+                          ],
+                          "Text": "t"
+                        },
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "491.856415",
+                            "148.963989",
+                            "491.856415",
+                            "148.963989"
+                          ],
+                          "Text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "S": "Span",
+                  "ID": "AD241024-0845-1125-ADBE-000000007639",
+                  "Text": "",
+                  "ObjId": "715",
+                  "Pg": "1",
+                  "K": [
+                    {
+                      "Pg": "1",
+                      "MCID": "276",
+                      "Content": [
+                        {
+                          "Type": "Text",
+                          "BBox": [
+                            "494.533905",
+                            "150.757492",
+                            "508.276703",
+                            "152.661484"
+                          ],
+                          "Text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Pg": "1",
+                  "MCID": "277",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "509.544891",
+                        "148.904495",
+                        "520.781921",
+                        "154.556992"
+                      ],
+                      "Text": "0.99 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "S": "TD",
+          "ID": "AD241024-0845-1125-ADBE-000000007642",
+          "ObjId": "1402",
+          "A": [
+            {
+              "ADBE_ColIndex": "4",
+              "ADBE_RowIndex": "16",
+              "O": "Table"
+            },
+            {
+              "ADBE_BBox": [
+                "526.299011",
+                "143.785995",
+                "552.578003",
+                "157.345993"
+              ],
+              "BlockAlign": "Middle",
+              "BorderColor": [
+                "",
+                [
+                  "0",
+                  "0",
+                  "0"
+                ],
+                "",
+                ""
+              ],
+              "BorderStyle": [
+                "None",
+                "Solid",
+                "None",
+                "None"
+              ],
+              "BorderThickness": [
+                "0",
+                "0.625",
+                "0",
+                "0"
+              ],
+              "Height": "13.5",
+              "InlineAlign": "Center",
+              "O": "Layout",
+              "Width": "26.25"
+            },
+            {
+              "ADBE_Confidence": "89",
+              "O": "ADBE_Table"
+            }
+          ],
+          "Type": "StructElem",
+          "K": [
+            {
+              "S": "P",
+              "ID": "AD241024-0845-1125-ADBE-000000007643",
+              "Text": "0.33 ",
+              "ObjId": "717",
+              "Pg": "1",
+              "A": [
+                {
+                  "LineHeight": "10.25",
+                  "O": "Layout"
+                }
+              ],
+              "K": [
+                {
+                  "Pg": "1",
+                  "MCID": "278",
+                  "Content": [
+                    {
+                      "Type": "Text",
+                      "BBox": [
+                        "534.220398",
+                        "148.904495",
+                        "545.457397",
+                        "154.556992"
+                      ],
+                      "Text": "0.33 "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

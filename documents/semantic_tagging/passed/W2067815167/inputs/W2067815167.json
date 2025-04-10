@@ -1,0 +1,2600 @@
+{
+    "creation_date": "2015-02-10T15:12:17Z",
+    "mod_date": "2025-03-30T14:38:21-07:00",
+    "author": "",
+    "title": "",
+    "subject": "",
+    "keywords": "",
+    "producer": "Adobe PDF Library 11.0",
+    "creator": "Adobe InDesign CC 2014 (Macintosh)",
+    "standard": "",
+    "lang": "",
+    "num_pages": "1",
+    "tagged": "true",
+    "StructTreeRoot": {
+        "K": [
+            {
+                "S": "Document",
+                "Lang": "en-GB",
+                "ObjId": "21",
+                "Type": "StructElem",
+                "K": [
+                    {
+                        "S": "Art",
+                        "ObjId": "60",
+                        "Type": "StructElem",
+                        "K": [
+                            {
+                                "S": "Sect",
+                                "ObjId": "181",
+                                "Type": "StructElem",
+                                "K": [
+                                    {
+                                        "S": "P",
+                                        "Text": "science graduates plentiful and attracting more  students to the field. Fortunes subsequently reversed. Since 2003, the NIH’s budget has contracted by around 25% in real terms, increasing competition for dwindling grant money among the surplus of early-career scientists created during the boom. ",
+                                        "ObjId": "45",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "501",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.8972816",
+                                                            "715.623108",
+                                                            "206.73996",
+                                                            "724.625488"
+                                                        ],
+                                                        "Text": "science graduates plentiful and attracting more"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "206.933319",
+                                                            "718.003906",
+                                                            "206.933319",
+                                                            "718.003906"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "206.970154",
+                                                            "718.003906",
+                                                            "206.970154",
+                                                            "718.003906"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.901001",
+                                                            "707.401611",
+                                                            "114.592827",
+                                                            "714.125488"
+                                                        ],
+                                                        "Text": "students to the field. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "51.3939743",
+                                                            "694.623108",
+                                                            "206.924194",
+                                                            "703.625488"
+                                                        ],
+                                                        "Text": "Fortunes subsequently reversed. Since 2003, "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.6809616",
+                                                            "684.123108",
+                                                            "206.975586",
+                                                            "693.125488"
+                                                        ],
+                                                        "Text": "the NIH’s budget has contracted by around "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.8112984",
+                                                            "673.623108",
+                                                            "206.946396",
+                                                            "682.625488"
+                                                        ],
+                                                        "Text": "25% in real terms, increasing competition for "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.8765182",
+                                                            "663.123108",
+                                                            "207.773361",
+                                                            "672.125488"
+                                                        ],
+                                                        "Text": "dwindling grant money among the surplus of "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.857914",
+                                                            "652.623108",
+                                                            "206.921616",
+                                                            "661.625488"
+                                                        ],
+                                                        "Text": "early-career scientists created during the boom. "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "Without steady growth in the NIH budget, some have suggested that the solution is to train fewer graduates for careers in biomedical research. But the pipeline of new investigators shows no signs of drying up. In 2013, US univer-sities conferred 8,471 biomedical PhDs. These joined thousands of other researchers eligible ",
+                                        "ObjId": "43",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "499",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "226.923416",
+                                                            "715.623108",
+                                                            "382.62439",
+                                                            "724.625488"
+                                                        ],
+                                                        "Text": "Without steady growth in the NIH budget, "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.656631",
+                                                            "705.123108",
+                                                            "382.669647",
+                                                            "714.125488"
+                                                        ],
+                                                        "Text": "some have suggested that the solution is to "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.425797",
+                                                            "694.623108",
+                                                            "382.680634",
+                                                            "703.625488"
+                                                        ],
+                                                        "Text": "train fewer graduates for careers in biomedical "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.576767",
+                                                            "684.123108",
+                                                            "382.722839",
+                                                            "693.125488"
+                                                        ],
+                                                        "Text": "research. But the pipeline of new investigators "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.641373",
+                                                            "673.623108",
+                                                            "379.693115",
+                                                            "682.625488"
+                                                        ],
+                                                        "Text": "shows no signs of drying up. In 2013, US univer"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "379.950073",
+                                                            "677.845276",
+                                                            "382.164764",
+                                                            "678.356812"
+                                                        ],
+                                                        "Text": "-"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.649811",
+                                                            "664.42511",
+                                                            "382.657074",
+                                                            "672.125488"
+                                                        ],
+                                                        "Text": "sities conferred 8,471 biomedical PhDs. These "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.041275",
+                                                            "652.623108",
+                                                            "382.651001",
+                                                            "661.625488"
+                                                        ],
+                                                        "Text": "joined thousands of other researchers eligible "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "that year for the NIH’s Early Stage Investigator  awards — 785 grants aimed at researchers who had graduated in the past decade. Too many heirs are awaiting too few crowns. ■",
+                                        "ObjId": "46",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "502",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.174011",
+                                                            "715.623108",
+                                                            "558.380188",
+                                                            "724.625488"
+                                                        ],
+                                                        "Text": "that year for the NIH’s Early Stage Investigator "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "558.426636",
+                                                            "718.003906",
+                                                            "558.426636",
+                                                            "718.003906"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.378418",
+                                                            "705.123108",
+                                                            "558.402649",
+                                                            "714.125488"
+                                                        ],
+                                                        "Text": "awards — 785 grants aimed at researchers who "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.186462",
+                                                            "694.623108",
+                                                            "558.552246",
+                                                            "703.625488"
+                                                        ],
+                                                        "Text": "had graduated in the past decade. Too many "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.183105",
+                                                            "684.123108",
+                                                            "513.446411",
+                                                            "693.125488"
+                                                        ],
+                                                        "Text": "heirs are awaiting too few crowns. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "515.209473",
+                                                            "686.503906",
+                                                            "519.286377",
+                                                            "690.586731"
+                                                        ],
+                                                        "Text": "■"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "L",
+                                        "ObjId": "63",
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "S": "LI",
+                                                "ObjId": "64",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "Text": "1.",
+                                                        "ObjId": "35",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "485",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "395.02652",
+                                                                            "670.703918",
+                                                                            "399.149506",
+                                                                            "675.883911"
+                                                                        ],
+                                                                        "Text": "1."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "Text": "Daniels, R. J. Proc. Natl Acad. Sci. USA 112,  313–318 (2015).",
+                                                        "ObjId": "34",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "480",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "404.622467",
+                                                                            "669.681946",
+                                                                            "440.598969",
+                                                                            "675.883911"
+                                                                        ],
+                                                                        "Text": "Daniels, R. J. "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "481",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "442.487579",
+                                                                            "670.612915",
+                                                                            "513.12384",
+                                                                            "675.988892"
+                                                                        ],
+                                                                        "Text": "Proc. Natl Acad. Sci. USA"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "482",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "515.650818",
+                                                                            "669.583923",
+                                                                            "528.751343",
+                                                                            "676.037903"
+                                                                        ],
+                                                                        "Text": "112,"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "483",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "529.070557",
+                                                                            "670.612915",
+                                                                            "558.297302",
+                                                                            "675.995911"
+                                                                        ],
+                                                                        "Text": " 313–318 "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "484",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "404.276642",
+                                                                            "661.337891",
+                                                                            "425.736206",
+                                                                            "668.092896"
+                                                                        ],
+                                                                        "Text": "(2015)."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ObjId": "65",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "Text": "2.",
+                                                        "ObjId": "36",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "486",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "394.434662",
+                                                                            "654.799927",
+                                                                            "399.149506",
+                                                                            "660.091919"
+                                                                        ],
+                                                                        "Text": "2."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "Text": "Jones, B. F. Rev. Econ. Stat. 92,  1–14 (2010).",
+                                                        "ObjId": "37",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "487",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "403.851044",
+                                                                            "653.777954",
+                                                                            "435.797638",
+                                                                            "659.979919"
+                                                                        ],
+                                                                        "Text": "Jones, B. F. "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "488",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "437.686279",
+                                                                            "654.708923",
+                                                                            "479.900452",
+                                                                            "660.0849"
+                                                                        ],
+                                                                        "Text": "Rev. Econ. Stat."
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "489",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "482.267853",
+                                                                            "653.679932",
+                                                                            "491.637695",
+                                                                            "660.133911"
+                                                                        ],
+                                                                        "Text": "92,"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "490",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "491.956909",
+                                                                            "653.336914",
+                                                                            "532.275879",
+                                                                            "660.091919"
+                                                                        ],
+                                                                        "Text": " 1–14 (2010)."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "S": "Sect",
+                                "ObjId": "180",
+                                "Type": "StructElem",
+                                "K": [
+                                    {
+                                        "S": "Figure",
+                                        "ObjId": "27",
+                                        "Pg": "1",
+                                        "A": [
+                                            {
+                                                "BBox": [
+                                                    "41.443199",
+                                                    "412.43399",
+                                                    "210.772003",
+                                                    "618.867004"
+                                                ],
+                                                "O": "Layout",
+                                                "Placement": "Block"
+                                            }
+                                        ],
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "416",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Image",
+                                                        "BBox": [
+                                                            "41.4432373",
+                                                            "412.433807",
+                                                            "210.772293",
+                                                            "618.867065"
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "Figure",
+                                        "ObjId": "30",
+                                        "Pg": "1",
+                                        "A": [
+                                            {
+                                                "BBox": [
+                                                    "162.805008",
+                                                    "370.126984",
+                                                    "435.291016",
+                                                    "661.127014"
+                                                ],
+                                                "O": "Layout",
+                                                "Placement": "Block"
+                                            }
+                                        ],
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "455",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Image",
+                                                        "BBox": [
+                                                            "162.804871",
+                                                            "370.126984",
+                                                            "435.290833",
+                                                            "661.126587"
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "Ground finches (left) tend to have large beaks for cracking seeds, whereas warbler finches spear insects.",
+                                        "ObjId": "31",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "456",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "42.886898",
+                                                            "401.470276",
+                                                            "379.56665",
+                                                            "408.490265"
+                                                        ],
+                                                        "Text": "Ground finches (left) tend to have large beaks for cracking seeds, whereas warbler finches spear insects."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "H1",
+                                        "Text": "D arwin’s finches join genome club",
+                                        "ObjId": "47",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "513",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "43.7796974",
+                                                            "341.203888",
+                                                            "72.3396988",
+                                                            "370.603882"
+                                                        ],
+                                                        "Text": "D"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "515",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "73.5576935",
+                                                            "340.825897",
+                                                            "212.846497",
+                                                            "372.703888"
+                                                        ],
+                                                        "Text": "arwin’s "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "516",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "220.994507",
+                                                            "340.825897",
+                                                            "355.701111",
+                                                            "372.703888"
+                                                        ],
+                                                        "Text": "finches "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "38.7397003",
+                                                            "289.585876",
+                                                            "88.3711014",
+                                                            "330.703888"
+                                                        ],
+                                                        "Text": "joi"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "88.915802",
+                                                            "289.585876",
+                                                            "354.82196",
+                                                            "329.863892"
+                                                        ],
+                                                        "Text": "n genome club"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "Scientists pinpoint genes behind famed beak variations.",
+                                        "ObjId": "29",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "420",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "43.2486992",
+                                                            "267.540405",
+                                                            "355.598145",
+                                                            "280.486908"
+                                                        ],
+                                                        "Text": "Scientists pinpoint genes behind famed beak variations."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ObjId": "167",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "642",
+                                                "Content": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ObjId": "168",
+                                        "Pg": "1",
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "S": "Span",
+                                                "ObjId": "169",
+                                                "Pg": "1",
+                                                "K": [
+                                                    {
+                                                        "Pg": "1",
+                                                        "MCID": "648",
+                                                        "Content": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "646",
+                                                "Content": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "groundbreaking 1831–36 voyage aboard the HMS Beagle. “One might really fancy,” he wrote in his diary, “that from an original paucity of birds in this archipelago, one species had been taken and modified for different ends.” Almost two centuries later, his early suspicions have been widely confirmed. Initially, the finches were classified on the basis of their physical characteristics. Morerecently, it has incorporated variations in key DNA sequences. But nobody had compared whole-genome data from all 15 species until a team led by Leif Andersson, a geneticist at Uppsala University in Sweden, analysed sam-ples from 120 individual birds. “When we did the whole DNA sequence of all the species, we could redraw that tree,” he says. Overall, the researchers found good agree-ment with current taxonomy, but also someinteresting deviations. For example, they con-clude that the ground finch Geospiza difficilis,",
+                                        "ObjId": "41",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "497",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.542801",
+                                                            "243.123108",
+                                                            "382.681854",
+                                                            "252.125504"
+                                                        ],
+                                                        "Text": "groundbreaking 1831–36 voyage aboard the "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.618866",
+                                                            "234.873703",
+                                                            "237.512497",
+                                                            "241.1884"
+                                                        ],
+                                                        "Text": "HMS "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "238.986465",
+                                                            "232.623108",
+                                                            "261.328918",
+                                                            "241.625504"
+                                                        ],
+                                                        "Text": "Beagle"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "261.802979",
+                                                            "232.623108",
+                                                            "382.70752",
+                                                            "241.662704"
+                                                        ],
+                                                        "Text": ". “One might really fancy,” he wrote "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.571259",
+                                                            "222.123108",
+                                                            "383.501556",
+                                                            "231.162704"
+                                                        ],
+                                                        "Text": "in his diary, “that from an original paucity of "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.333298",
+                                                            "211.623108",
+                                                            "382.740784",
+                                                            "220.625504"
+                                                        ],
+                                                        "Text": "birds in this archipelago, one species had been "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.425797",
+                                                            "203.401611",
+                                                            "382.676819",
+                                                            "210.125504"
+                                                        ],
+                                                        "Text": "taken and modified for different ends.” Almost "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.428955",
+                                                            "190.623108",
+                                                            "382.677124",
+                                                            "199.625504"
+                                                        ],
+                                                        "Text": "two centuries later, his early suspicions have "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.332794",
+                                                            "180.123108",
+                                                            "301.892365",
+                                                            "189.125504"
+                                                        ],
+                                                        "Text": "been widely confirmed. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "227.132187",
+                                                            "169.623108",
+                                                            "382.661804",
+                                                            "178.625504"
+                                                        ],
+                                                        "Text": "Initially, the finches were classified on the "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.338669",
+                                                            "159.123413",
+                                                            "382.462646",
+                                                            "168.125809"
+                                                        ],
+                                                        "Text": "basis of their physical characteristics. More"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.585297",
+                                                            "148.623703",
+                                                            "382.84491",
+                                                            "157.626099"
+                                                        ],
+                                                        "Text": "recently, it has incorporated variations in key "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.585297",
+                                                            "138.124008",
+                                                            "382.664673",
+                                                            "147.126404"
+                                                        ],
+                                                        "Text": "DNA sequences. But nobody had compared "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.357635",
+                                                            "127.624313",
+                                                            "382.615356",
+                                                            "136.626709"
+                                                        ],
+                                                        "Text": "whole-genome data from all 15 species until "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.642212",
+                                                            "117.124611",
+                                                            "382.67218",
+                                                            "126.127007"
+                                                        ],
+                                                        "Text": "a team led by Leif Andersson, a geneticist at "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.5793",
+                                                            "106.6231",
+                                                            "379.144043",
+                                                            "115.625496"
+                                                        ],
+                                                        "Text": "Uppsala University in Sweden, analysed sam"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "379.849457",
+                                                            "110.845299",
+                                                            "382.144012",
+                                                            "111.356796"
+                                                        ],
+                                                        "Text": "-"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.428101",
+                                                            "96.2811966",
+                                                            "382.630249",
+                                                            "105.162697"
+                                                        ],
+                                                        "Text": "ples from 120 individual birds. “When we did "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.426941",
+                                                            "85.7625961",
+                                                            "382.734039",
+                                                            "94.6254959"
+                                                        ],
+                                                        "Text": "the whole DNA sequence of all the species, we "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.621094",
+                                                            "75.1231003",
+                                                            "328.377808",
+                                                            "84.1254959"
+                                                        ],
+                                                        "Text": "could redraw that tree,” he says. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "227.189102",
+                                                            "64.6231003",
+                                                            "379.157715",
+                                                            "73.6254959"
+                                                        ],
+                                                        "Text": "Overall, the researchers found good agree"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "379.83783",
+                                                            "68.8452988",
+                                                            "382.142914",
+                                                            "69.3567963"
+                                                        ],
+                                                        "Text": "-"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.51889",
+                                                            "54.1233978",
+                                                            "382.450317",
+                                                            "63.1258011"
+                                                        ],
+                                                        "Text": "ment with current taxonomy, but also some"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.568878",
+                                                            "43.6231003",
+                                                            "379.261108",
+                                                            "52.6254997"
+                                                        ],
+                                                        "Text": "interesting deviations. For example, they con"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "379.860626",
+                                                            "47.8452988",
+                                                            "382.147736",
+                                                            "48.3568001"
+                                                        ],
+                                                        "Text": "-"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "218.626358",
+                                                            "33.1231003",
+                                                            "316.685638",
+                                                            "42.1254997"
+                                                        ],
+                                                        "Text": "clude that the ground finch "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "319.060394",
+                                                            "33.1231003",
+                                                            "380.498688",
+                                                            "42.1254997"
+                                                        ],
+                                                        "Text": "Geospiza difficilis"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "380.938507",
+                                                            "34.4250984",
+                                                            "382.278778",
+                                                            "36.703598"
+                                                        ],
+                                                        "Text": ","
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "comprises three species. Andersson’s team also discovered extensive mixing of genes between species. This is in line with field observations of hybrid birds made by study co-authors Peter and Rosemary Grant, evolutionary biologists at Princeton University in New Jersey who have worked in the Galapa - gos for decades. The genomic data reveal that the birds have been crossbreeding throughout their evolutionary history. Darwin famously sketched his initial idea of phylogeny as a branching tree, above which he wrote “I think”. Now, says Peter Grant, “he might wish to redraw that tree by making connections between some of the branches, representing the hybridization and gene exchange”. By looking at closely related finches that have different beak shapes, the researchers were able to pinpoint the genes responsible for beak mor - phology. One of those genes, ALX1 , is involved in the facial development of vertebrates, includ - ing fish and mammals. In humans, for example, loss of ALX1  leads to severe facial deformities",
+                                        "ObjId": "49",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "519",
+                                                "Content": ""
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "520",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.36911",
+                                                            "600.281189",
+                                                            "479.156281",
+                                                            "609.125488"
+                                                        ],
+                                                        "Text": "comprises three species. "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "521",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "402.708313",
+                                                            "591.901611",
+                                                            "558.416382",
+                                                            "598.625488"
+                                                        ],
+                                                        "Text": "Andersson’s team also discovered extensive "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "522",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.266815",
+                                                            "579.123108",
+                                                            "558.427551",
+                                                            "588.125488"
+                                                        ],
+                                                        "Text": "mixing of genes between species. This is in line "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "523",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.099182",
+                                                            "568.623108",
+                                                            "558.569336",
+                                                            "577.625488"
+                                                        ],
+                                                        "Text": "with field observations of hybrid birds made by "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "524",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.404633",
+                                                            "558.123108",
+                                                            "558.477356",
+                                                            "567.125488"
+                                                        ],
+                                                        "Text": "study co-authors Peter and Rosemary Grant, "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "525",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.359802",
+                                                            "547.623108",
+                                                            "558.605225",
+                                                            "556.625488"
+                                                        ],
+                                                        "Text": "evolutionary biologists at Princeton University "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "526",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.313324",
+                                                            "537.123413",
+                                                            "555.225647",
+                                                            "546.125793"
+                                                        ],
+                                                        "Text": "in New Jersey who have worked in the Galapa"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "527",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.640442",
+                                                            "541.345581",
+                                                            "557.90033",
+                                                            "541.857117"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "528",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.290131",
+                                                            "526.623108",
+                                                            "558.465393",
+                                                            "535.625488"
+                                                        ],
+                                                        "Text": "gos for decades. The genomic data reveal that "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "529",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.175171",
+                                                            "516.123108",
+                                                            "558.452454",
+                                                            "525.125488"
+                                                        ],
+                                                        "Text": "the birds have been crossbreeding throughout "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "530",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.173828",
+                                                            "505.623077",
+                                                            "486.187073",
+                                                            "514.625488"
+                                                        ],
+                                                        "Text": "their evolutionary history. "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "531",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "402.827637",
+                                                            "495.123077",
+                                                            "559.338562",
+                                                            "504.125488"
+                                                        ],
+                                                        "Text": "Darwin famously sketched his initial idea of "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "532",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.174316",
+                                                            "484.623077",
+                                                            "558.491699",
+                                                            "493.625488"
+                                                        ],
+                                                        "Text": "phylogeny as a branching tree, above which he "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "533",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.097778",
+                                                            "474.123077",
+                                                            "558.425171",
+                                                            "483.162689"
+                                                        ],
+                                                        "Text": "wrote “I think”. Now, says Peter Grant, “he might "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "534",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.098755",
+                                                            "463.623077",
+                                                            "558.375732",
+                                                            "472.625488"
+                                                        ],
+                                                        "Text": "wish to redraw that tree by making connections "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "535",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.080292",
+                                                            "453.123077",
+                                                            "558.395386",
+                                                            "462.125488"
+                                                        ],
+                                                        "Text": "between some of the branches, representing the "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "536",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.183105",
+                                                            "442.623077",
+                                                            "513.477905",
+                                                            "451.625488"
+                                                        ],
+                                                        "Text": "hybridization and gene exchange”."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "537",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "402.852081",
+                                                            "432.123077",
+                                                            "558.384521",
+                                                            "441.125488"
+                                                        ],
+                                                        "Text": "By looking at closely related finches that have "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "538",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.368317",
+                                                            "421.781189",
+                                                            "558.441528",
+                                                            "430.625488"
+                                                        ],
+                                                        "Text": "different beak shapes, the researchers were able "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "539",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.173004",
+                                                            "411.123077",
+                                                            "555.443481",
+                                                            "420.125488"
+                                                        ],
+                                                        "Text": "to pinpoint the genes responsible for beak mor"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "540",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.658142",
+                                                            "415.345276",
+                                                            "557.906677",
+                                                            "415.856781"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "541",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.173828",
+                                                            "400.623077",
+                                                            "494.617523",
+                                                            "409.625488"
+                                                        ],
+                                                        "Text": "phology. One of those genes, "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "542",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "495.962311",
+                                                            "403.003876",
+                                                            "516.273499",
+                                                            "409.179077"
+                                                        ],
+                                                        "Text": "ALX1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "543",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "517.501099",
+                                                            "401.925079",
+                                                            "558.421143",
+                                                            "409.625488"
+                                                        ],
+                                                        "Text": ", is involved "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "544",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.310547",
+                                                            "390.281189",
+                                                            "555.225464",
+                                                            "399.125488"
+                                                        ],
+                                                        "Text": "in the facial development of vertebrates, includ"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "545",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.670532",
+                                                            "394.345276",
+                                                            "557.909363",
+                                                            "394.856781"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "546",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.310486",
+                                                            "379.623077",
+                                                            "558.452637",
+                                                            "388.625488"
+                                                        ],
+                                                        "Text": "ing fish and mammals. In humans, for example, "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "547",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.155212",
+                                                            "371.401581",
+                                                            "416.986725",
+                                                            "378.125488"
+                                                        ],
+                                                        "Text": "loss of "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "548",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "417.377319",
+                                                            "371.503876",
+                                                            "437.688538",
+                                                            "377.679077"
+                                                        ],
+                                                        "Text": "ALX1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "549",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "438.506927",
+                                                            "371.401581",
+                                                            "553.361938",
+                                                            "378.125488"
+                                                        ],
+                                                        "Text": " leads to severe facial deformities"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "550",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "553.66333",
+                                                            "375.45639",
+                                                            "555.945557",
+                                                            "378.999695"
+                                                        ],
+                                                        "Text": "2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "551",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "556.624451",
+                                                            "371.401581",
+                                                            "557.666016",
+                                                            "372.461761"
+                                                        ],
+                                                        "Text": "."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "552",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "402.868744",
+                                                            "358.623077",
+                                                            "558.391479",
+                                                            "367.625488"
+                                                        ],
+                                                        "Text": "In the finches, the gene displayed two distinct "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "553",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.006592",
+                                                            "348.123077",
+                                                            "558.448608",
+                                                            "357.125488"
+                                                        ],
+                                                        "Text": "variants that matched up neatly with beak shape. "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "554",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.37619",
+                                                            "337.623077",
+                                                            "555.016907",
+                                                            "346.625488"
+                                                        ],
+                                                        "Text": "Individuals from a species with a highly vari"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "555",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.590759",
+                                                            "341.845276",
+                                                            "557.895874",
+                                                            "342.356781"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "556",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.385681",
+                                                            "327.123383",
+                                                            "558.447998",
+                                                            "336.125793"
+                                                        ],
+                                                        "Text": "able beak shape — the medium ground finch "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "557",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.675598",
+                                                            "317.441467",
+                                                            "396.84375",
+                                                            "325.597565"
+                                                        ],
+                                                        "Text": "("
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "558",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "397.795868",
+                                                            "316.623077",
+                                                            "449.612152",
+                                                            "325.625488"
+                                                        ],
+                                                        "Text": "Geospiza fortis"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "559",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "450.048615",
+                                                            "317.441467",
+                                                            "558.431396",
+                                                            "325.625488"
+                                                        ],
+                                                        "Text": ") — had a mixture of the blunt "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "560",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.385681",
+                                                            "306.123077",
+                                                            "554.892456",
+                                                            "315.125488"
+                                                        ],
+                                                        "Text": "and pointed gene variants. The finding dove"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "561",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.590759",
+                                                            "310.345276",
+                                                            "557.895874",
+                                                            "310.856781"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "562",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.174652",
+                                                            "295.623077",
+                                                            "555.076416",
+                                                            "304.625488"
+                                                        ],
+                                                        "Text": "tails nicely with work by the Grants that docu"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "563",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.633606",
+                                                            "299.845276",
+                                                            "557.905457",
+                                                            "300.356781"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "564",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.271851",
+                                                            "285.123077",
+                                                            "558.599731",
+                                                            "294.125488"
+                                                        ],
+                                                        "Text": "ments the species’ rapid evolution as recently "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "565",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.378418",
+                                                            "274.623077",
+                                                            "558.437866",
+                                                            "283.625488"
+                                                        ],
+                                                        "Text": "as the 1980s, when a drought affected the bird’s "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "566",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.262146",
+                                                            "264.123077",
+                                                            "558.47229",
+                                                            "273.125488"
+                                                        ],
+                                                        "Text": "food supply and its beak started to become more "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "567",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.173828",
+                                                            "253.781174",
+                                                            "520.052124",
+                                                            "262.625488"
+                                                        ],
+                                                        "Text": "pointed to accommodate a new diet"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "568",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "520.208679",
+                                                            "259.89502",
+                                                            "522.329041",
+                                                            "263.499695"
+                                                        ],
+                                                        "Text": "3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "569",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "523.097107",
+                                                            "255.901581",
+                                                            "524.678101",
+                                                            "256.961761"
+                                                        ],
+                                                        "Text": ". "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "570",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "402.709442",
+                                                            "243.281204",
+                                                            "494.01886",
+                                                            "252.125504"
+                                                        ],
+                                                        "Text": "Andersson suspects that "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "571",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "495.899902",
+                                                            "245.503906",
+                                                            "517.044189",
+                                                            "251.679108"
+                                                        ],
+                                                        "Text": "ALX1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "572",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "518.01178",
+                                                            "245.401611",
+                                                            "558.431641",
+                                                            "252.125504"
+                                                        ],
+                                                        "Text": " drove that "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "573",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.380768",
+                                                            "232.623413",
+                                                            "558.42981",
+                                                            "241.625809"
+                                                        ],
+                                                        "Text": "adaptation, but others say the picture is more "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "574",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.367157",
+                                                            "222.123108",
+                                                            "558.475281",
+                                                            "231.162704"
+                                                        ],
+                                                        "Text": "complicated. Beaks “differ in many parameters, "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "575",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.290802",
+                                                            "211.623108",
+                                                            "558.378662",
+                                                            "220.625504"
+                                                        ],
+                                                        "Text": "not just being blunt or pointed”, says Ricardo "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "576",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.25589",
+                                                            "201.123108",
+                                                            "558.44397",
+                                                            "210.125504"
+                                                        ],
+                                                        "Text": "Mallarino, an evolutionary biologist at Harvard "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "577",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.319519",
+                                                            "190.623108",
+                                                            "555.219238",
+                                                            "199.625504"
+                                                        ],
+                                                        "Text": "University in Cambridge, Massachusetts. Func"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "578",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.671326",
+                                                            "194.845306",
+                                                            "557.908386",
+                                                            "195.356812"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "579",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.176971",
+                                                            "182.401611",
+                                                            "454.853241",
+                                                            "189.125504"
+                                                        ],
+                                                        "Text": "tional studies of "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "580",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "455.873932",
+                                                            "182.503906",
+                                                            "477.99527",
+                                                            "188.679108"
+                                                        ],
+                                                        "Text": "ALX1 "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "581",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "480.4711",
+                                                            "180.281204",
+                                                            "558.425171",
+                                                            "189.125504"
+                                                        ],
+                                                        "Text": "should help to reveal "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "582",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.359802",
+                                                            "169.623108",
+                                                            "555.137268",
+                                                            "178.625504"
+                                                        ],
+                                                        "Text": "exactly what the gene controls, he says. His col"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "583",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "555.640442",
+                                                            "173.845306",
+                                                            "557.90033",
+                                                            "174.356812"
+                                                        ],
+                                                        "Text": "-"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "584",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.152435",
+                                                            "159.123108",
+                                                            "558.424011",
+                                                            "168.125504"
+                                                        ],
+                                                        "Text": "league, evolutionary biologist Arkhat Abzhanov, "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "585",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.396454",
+                                                            "148.623108",
+                                                            "423.995636",
+                                                            "157.625504"
+                                                        ],
+                                                        "Text": "says that "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "586",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "425.190826",
+                                                            "151.003906",
+                                                            "446.289978",
+                                                            "157.179108"
+                                                        ],
+                                                        "Text": "ALX1 "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "587",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "447.980133",
+                                                            "148.623108",
+                                                            "558.449829",
+                                                            "157.625504"
+                                                        ],
+                                                        "Text": "may be especially important for "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "588",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.266815",
+                                                            "138.123108",
+                                                            "518.391113",
+                                                            "147.125504"
+                                                        ],
+                                                        "Text": "finches with very specialized beaks."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "589",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "402.671478",
+                                                            "127.623108",
+                                                            "558.41449",
+                                                            "136.625504"
+                                                        ],
+                                                        "Text": "What would Darwin make of the findings? "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "590",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.414062",
+                                                            "117.1231",
+                                                            "558.349304",
+                                                            "126.162697"
+                                                        ],
+                                                        "Text": "“We would have to give him a crash course in "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "591",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.290802",
+                                                            "106.6231",
+                                                            "558.449829",
+                                                            "115.662697"
+                                                        ],
+                                                        "Text": "genetics,” Grant says. “But then he would be "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "592",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.37619",
+                                                            "96.1233978",
+                                                            "558.423279",
+                                                            "105.125793"
+                                                        ],
+                                                        "Text": "delighted. The results are entirely consistent "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "593",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "394.099426",
+                                                            "87.9015961",
+                                                            "446.095734",
+                                                            "94.6254959"
+                                                        ],
+                                                        "Text": "with his ideas.” "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "594",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "447.84314",
+                                                            "88.0038986",
+                                                            "451.920013",
+                                                            "92.0867004"
+                                                        ],
+                                                        "Text": "■"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "L",
+                                        "ObjId": "179",
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "S": "LI",
+                                                "ObjId": "182",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "Text": "1.",
+                                                        "ObjId": "171",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "651",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "395.02652",
+                                                                            "75.0038986",
+                                                                            "399.18277",
+                                                                            "80.1838989"
+                                                                        ],
+                                                                        "Text": "1."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "Text": "Lamichhaney, S. et al. Nature http:\/\/dx.doi. org\/10.1038\/nature14181 (2015).",
+                                                        "ObjId": "172",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "653",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "404.615784",
+                                                                            "73.5198975",
+                                                                            "444.708618",
+                                                                            "80.1838989"
+                                                                        ],
+                                                                        "Text": "Lamichhaney"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "444.828369",
+                                                                            "73.9818954",
+                                                                            "453.04776",
+                                                                            "80.2958984"
+                                                                        ],
+                                                                        "Text": ", S. "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "654",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "454.956299",
+                                                                            "74.9338989",
+                                                                            "467.724304",
+                                                                            "80.1838989"
+                                                                        ],
+                                                                        "Text": "et al."
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "655",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "470.204681",
+                                                                            "74.9338989",
+                                                                            "489.556152",
+                                                                            "80.1838989"
+                                                                        ],
+                                                                        "Text": "Nature"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "659",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "491.98349",
+                                                                            "73.6109009",
+                                                                            "530.806213",
+                                                                            "80.1838989"
+                                                                        ],
+                                                                        "Text": "http:\/\/dx.doi."
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "660",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "404.269958",
+                                                                            "65.5399017",
+                                                                            "462.065125",
+                                                                            "72.294899"
+                                                                        ],
+                                                                        "Text": "org\/10.1038\/natur"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "462.304535",
+                                                                            "66.9118958",
+                                                                            "485.932007",
+                                                                            "72.294899"
+                                                                        ],
+                                                                        "Text": "e14181 "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "656",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "487.867126",
+                                                                            "65.5399017",
+                                                                            "509.526184",
+                                                                            "72.294899"
+                                                                        ],
+                                                                        "Text": "(2015)."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ObjId": "183",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "Text": "2.",
+                                                        "ObjId": "173",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "661",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "394.434662",
+                                                                            "59.0018997",
+                                                                            "399.18277",
+                                                                            "64.2938995"
+                                                                        ],
+                                                                        "Text": "2."
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "Text": "Uz, E. et al. Am. J. Hum. Genet. 86, 789–796 (2010). ",
+                                                        "ObjId": "174",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "663",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "404.549255",
+                                                                            "57.9799004",
+                                                                            "420.243256",
+                                                                            "64.1819"
+                                                                        ],
+                                                                        "Text": "Uz, E. "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "664",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "422.158569",
+                                                                            "58.9109001",
+                                                                            "492.249542",
+                                                                            "64.2868958"
+                                                                        ],
+                                                                        "Text": "et al. Am. J. Hum. Genet. "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "665",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "494.091522",
+                                                                            "57.8819008",
+                                                                            "503.920227",
+                                                                            "64.3429031"
+                                                                        ],
+                                                                        "Text": "86, "
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "666",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "505.955078",
+                                                                            "57.5388985",
+                                                                            "557.232544",
+                                                                            "64.2938995"
+                                                                        ],
+                                                                        "Text": "789–796 (2010). "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ObjId": "177",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ObjId": "175",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "667",
+                                                                "Content": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ObjId": "176",
+                                                        "Pg": "1",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "669",
+                                                                "Content": ""
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "670",
+                                                                "Content": ""
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "671",
+                                                                "Content": ""
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "672",
+                                                                "Content": ""
+                                                            },
+                                                            {
+                                                                "Pg": "1",
+                                                                "MCID": "673",
+                                                                "Content": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

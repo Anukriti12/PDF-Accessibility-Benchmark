@@ -1,0 +1,2127 @@
+{
+    "creation_date": "2019-06-24T12:59:18+01:00",
+    "mod_date": "2025-03-30T16:04:36-07:00",
+    "author": "B D",
+    "title": "",
+    "subject": "",
+    "keywords": "",
+    "producer": "Microsoft® Word 2016",
+    "creator": "Microsoft® Word 2016",
+    "standard": "",
+    "lang": "en-GB",
+    "num_pages": "2",
+    "tagged": "true",
+    "StructTreeRoot": {
+        "K": [
+            {
+                "S": "Document",
+                "ObjId": "126",
+                "Type": "StructElem",
+                "K": [
+                    {
+                        "S": "Art",
+                        "ObjId": "127",
+                        "Type": "StructElem",
+                        "K": [
+                            {
+                                "S": "Part",
+                                "ObjId": "49",
+                                "Pg": "1",
+                                "Type": "StructElem",
+                                "K": [
+                                    {
+                                        "S": "P",
+                                        "Text": "Citation for published version: Davidson, B & Ellis, D 2019, 'Social media addiction: technological déjà vu', BMJ , vol. 365, l4277. https:\/\/doi.org\/10.1136\/bmj.l4277 ",
+                                        "ObjId": "132",
+                                        "Pg": "1",
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "29",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "58.0800018",
+                                                            "627.940002",
+                                                            "188.949982",
+                                                            "637.369995"
+                                                        ],
+                                                        "Text": "Citation for published version: "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.8100014",
+                                                            "617.809998",
+                                                            "390.409973",
+                                                            "627.369995"
+                                                        ],
+                                                        "Text": "Davidson, B & Ellis, D 2019, 'Social media addiction: technological déjà vu', "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "393.929932",
+                                                            "619.820007",
+                                                            "413.999939",
+                                                            "627.179993"
+                                                        ],
+                                                        "Text": "BMJ "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "416.839966",
+                                                            "618.539978",
+                                                            "489.349945",
+                                                            "627.179993"
+                                                        ],
+                                                        "Text": ", vol. 365, l4277. "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "Link",
+                                                "Text": "https:\/\/doi.org\/10.1136\/bmj.l4277 ",
+                                                "ObjId": "133",
+                                                "Pg": "1",
+                                                "K": [
+                                                    {
+                                                        "Type": "OBJR",
+                                                        "Pg": "1",
+                                                        "ObjType": "Annot",
+                                                        "ObjId": "137"
+                                                    },
+                                                    {
+                                                        "Pg": "1",
+                                                        "MCID": "30",
+                                                        "Content": [
+                                                            {
+                                                                "Type": "Text",
+                                                                "BBox": [
+                                                                    "57.6500015",
+                                                                    "607.809998",
+                                                                    "202.639969",
+                                                                    "617.369995"
+                                                                ],
+                                                                "Text": "https:\/\/doi.org\/10.1136\/bmj.l4277 "
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001720",
+                                        "Text": "DOI: ",
+                                        "ObjId": "51",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "2",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "522.299988",
+                                                            "704.280029",
+                                                            "522.299988",
+                                                            "704.280029"
+                                                        ],
+                                                        "Text": " "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001722",
+                                        "ObjId": "52",
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "S": "Link",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001723",
+                                                "Text": "10.1136\/bmj.l4277 ",
+                                                "ObjId": "33",
+                                                "Pg": "1",
+                                                "K": [
+                                                    {
+                                                        "Type": "OBJR",
+                                                        "Pg": "1",
+                                                        "ObjType": "",
+                                                        "ObjId": "66"
+                                                    },
+                                                    {
+                                                        "Pg": "1",
+                                                        "MCID": "3",
+                                                        "Content": [
+                                                            {
+                                                                "Type": "Text",
+                                                                "BBox": [
+                                                                    "58.0099983",
+                                                                    "557.909973",
+                                                                    "139.269989",
+                                                                    "567.369995"
+                                                                ],
+                                                                "Text": "10.1136\/bmj.l4277 "
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001726",
+                                        "Text": "Publication date: ",
+                                        "ObjId": "53",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "4",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.8600006",
+                                                            "529.859985",
+                                                            "131.159988",
+                                                            "537.179993"
+                                                        ],
+                                                        "Text": "Publication date: "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001728",
+                                        "Text": "2019 ",
+                                        "ObjId": "54",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "5",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.2599983",
+                                                            "519.820007",
+                                                            "79.2399979",
+                                                            "527.030029"
+                                                        ],
+                                                        "Text": "2019 "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001730",
+                                        "Text": "Document Version ",
+                                        "ObjId": "55",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "6",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.8100014",
+                                                            "489.859985",
+                                                            "139.419998",
+                                                            "497.179993"
+                                                        ],
+                                                        "Text": "Document Version "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001732",
+                                        "Text": "Peer reviewed version ",
+                                        "ObjId": "56",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "7",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.8600006",
+                                                            "479.859985",
+                                                            "155.919983",
+                                                            "487.179993"
+                                                        ],
+                                                        "Text": "Peer reviewed version "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001734",
+                                        "ObjId": "57",
+                                        "A": [
+                                            {
+                                                "O": "Layout",
+                                                "SpaceAfter": "70"
+                                            }
+                                        ],
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "S": "Link",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001735",
+                                                "Text": "Link to publication ",
+                                                "ObjId": "34",
+                                                "Pg": "1",
+                                                "K": [
+                                                    {
+                                                        "Type": "OBJR",
+                                                        "Pg": "1",
+                                                        "ObjType": "",
+                                                        "ObjId": "65"
+                                                    },
+                                                    {
+                                                        "Pg": "1",
+                                                        "MCID": "8",
+                                                        "Content": [
+                                                            {
+                                                                "Type": "Text",
+                                                                "BBox": [
+                                                                    "57.7599983",
+                                                                    "447.940002",
+                                                                    "137.039993",
+                                                                    "457.179993"
+                                                                ],
+                                                                "Text": "Link to publication "
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001738",
+                                        "Text": "Copyright © 2019 BMJ. The final publication is available at The BMJ via https:\/\/doi.org\/10.1136\/bmj.l4277 ",
+                                        "ObjId": "47",
+                                        "Pg": "1",
+                                        "A": [
+                                            {
+                                                "O": "Layout",
+                                                "SpaceAfter": "137.625015"
+                                            }
+                                        ],
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "9",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.4399986",
+                                                            "367.809998",
+                                                            "376.71994",
+                                                            "377.369995"
+                                                        ],
+                                                        "Text": "Copyright © 2019 BMJ. The final publication is available at The BMJ via "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "Link",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001740",
+                                                "Text": "https:\/\/doi.org\/10.1136\/bmj.l4277 ",
+                                                "ObjId": "35",
+                                                "Pg": "1",
+                                                "K": [
+                                                    {
+                                                        "Type": "OBJR",
+                                                        "Pg": "1",
+                                                        "ObjType": "Annot",
+                                                        "ObjId": "63"
+                                                    },
+                                                    {
+                                                        "Pg": "1",
+                                                        "MCID": "10",
+                                                        "Content": [
+                                                            {
+                                                                "Type": "Text",
+                                                                "BBox": [
+                                                                    "380.149963",
+                                                                    "367.809998",
+                                                                    "525.139954",
+                                                                    "377.369995"
+                                                                ],
+                                                                "Text": "https:\/\/doi.org\/10.1136\/bmj.l4277 "
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "H1",
+                                        "Text": "University of Bath ",
+                                        "ObjId": "160",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "31",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.8639984",
+                                                            "215.444",
+                                                            "159.684006",
+                                                            "226.723999"
+                                                        ],
+                                                        "Text": "University of Bath "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "S": "Part",
+                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001814",
+                                "ObjId": "39",
+                                "Type": "StructElem",
+                                "K": [
+                                    {
+                                        "S": "H2",
+                                        "Text": "Alternative formats ",
+                                        "ObjId": "156",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "32",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.2799988",
+                                                            "165.817993",
+                                                            "184.581985",
+                                                            "176.177994"
+                                                        ],
+                                                        "Text": "Alternative formats "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001747",
+                                        "Text": "If you require this document in an alternative format, please contact: openaccess@bath.ac.uk ",
+                                        "ObjId": "37",
+                                        "Pg": "1",
+                                        "A": [
+                                            {
+                                                "EndIndent": "77",
+                                                "LineHeight": "14",
+                                                "O": "Layout",
+                                                "TextAlign": "Justify"
+                                            }
+                                        ],
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "13",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "58.2739983",
+                                                            "149.018005",
+                                                            "477.979919",
+                                                            "162.192001"
+                                                        ],
+                                                        "Text": "If you require this document in an alternative format, please contact: "
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "Link",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001749",
+                                                "Text": "openaccess@bath.ac.uk ",
+                                                "ObjId": "36",
+                                                "Pg": "1",
+                                                "K": [
+                                                    {
+                                                        "Type": "OBJR",
+                                                        "Pg": "1",
+                                                        "ObjType": "Annot",
+                                                        "ObjId": "45"
+                                                    },
+                                                    {
+                                                        "Pg": "1",
+                                                        "MCID": "14",
+                                                        "Content": [
+                                                            {
+                                                                "Type": "Text",
+                                                                "BBox": [
+                                                                    "57.4900017",
+                                                                    "135.115997",
+                                                                    "210.523987",
+                                                                    "148.556"
+                                                                ],
+                                                                "Text": "openaccess@bath.ac.uk "
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "H2",
+                                        "Text": "General rights ",
+                                        "ObjId": "157",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "33",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.3520012",
+                                                            "110.272003",
+                                                            "111.239998",
+                                                            "117.800003"
+                                                        ],
+                                                        "Text": "General rights "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001754",
+                                        "Text": "Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and\/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights. ",
+                                        "ObjId": "42",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "16",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.3520012",
+                                                            "102.248001",
+                                                            "554.999878",
+                                                            "109.895996"
+                                                        ],
+                                                        "Text": "Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and\/or other copyright owners "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.2879982",
+                                                            "94.2480011",
+                                                            "522.999878",
+                                                            "101.823997"
+                                                        ],
+                                                        "Text": "and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights. "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "H2",
+                                        "Text": "Take down policy ",
+                                        "ObjId": "158",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "35",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.1119995",
+                                                            "70.2959976",
+                                                            "123.687996",
+                                                            "77.8000031"
+                                                        ],
+                                                        "Text": "Take down policy "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "Text": "If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately and investigate your claim. ",
+                                        "ObjId": "159",
+                                        "Pg": "1",
+                                        "K": [
+                                            {
+                                                "Pg": "1",
+                                                "MCID": "36",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.7280006",
+                                                            "62.2480011",
+                                                            "551.871887",
+                                                            "69.8239975"
+                                                        ],
+                                                        "Text": "If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "57.2879982",
+                                                            "54.2480011",
+                                                            "151.703979",
+                                                            "61.7439995"
+                                                        ],
+                                                        "Text": "and investigate your claim. "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "Art",
+                        "ObjId": "128",
+                        "Type": "StructElem",
+                        "K": [
+                            {
+                                "S": "Part",
+                                "ObjId": "134",
+                                "Type": "StructElem",
+                                "K": [
+                                    {
+                                        "S": "P",
+                                        "ObjId": "135",
+                                        "Pg": "2",
+                                        "K": [
+                                            {
+                                                "Pg": "2",
+                                                "MCID": "54",
+                                                "Content": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001770",
+                                        "Text": "Alongside these  limitations, narratives surrounding  the mass adoption of new technologies are  almost always negative. In response, researchers might want to start asking  themselves exactly  why or how the use of social communication technology would cause harm and develop more  suitable measures accordingly. Social media  is  certainly  not  the first technology  to be  associated with potentially  ‘addictive’ or  negative  societal impacts [6,7], nor will  it  be  the last. Moral panics concerning new technology  (e.g., the  printing  press, the telephone, microwaves, the internet, social media) are, historically speaking, either overblown or demonstrably false.  ",
+                                        "ObjId": "70",
+                                        "Pg": "2",
+                                        "K": [
+                                            {
+                                                "Pg": "2",
+                                                "MCID": "3",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.2039948",
+                                                            "590.895996",
+                                                            "148.763977",
+                                                            "601.695984"
+                                                        ],
+                                                        "Text": "Alongside these "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "148.70401",
+                                                            "593.5",
+                                                            "148.70401",
+                                                            "593.5"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "151.811981",
+                                                            "590.895996",
+                                                            "317.024384",
+                                                            "601.695984"
+                                                        ],
+                                                        "Text": "limitations, narratives surrounding "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "316.90799",
+                                                            "593.5",
+                                                            "316.90799",
+                                                            "593.5"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "319.944",
+                                                            "590.895996",
+                                                            "522.875977",
+                                                            "601.695984"
+                                                        ],
+                                                        "Text": "the mass adoption of new technologies are "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "522.899963",
+                                                            "593.5",
+                                                            "522.899963",
+                                                            "593.5"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.4679947",
+                                                            "577.096008",
+                                                            "429.624054",
+                                                            "587.895996"
+                                                        ],
+                                                        "Text": "almost always negative. In response, researchers might want to start asking "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "429.540009",
+                                                            "579.700012",
+                                                            "429.540009",
+                                                            "579.700012"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "432.455994",
+                                                            "577.096008",
+                                                            "523.115967",
+                                                            "587.895996"
+                                                        ],
+                                                        "Text": "themselves exactly "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "522.875977",
+                                                            "579.700012",
+                                                            "522.875977",
+                                                            "579.700012"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.2759933",
+                                                            "563.26001",
+                                                            "522.947998",
+                                                            "574.059998"
+                                                        ],
+                                                        "Text": "why or how the use of social communication technology would cause harm and develop more "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "523.05603",
+                                                            "565.864014",
+                                                            "523.05603",
+                                                            "565.864014"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.635994",
+                                                            "549.460022",
+                                                            "298.380005",
+                                                            "560.26001"
+                                                        ],
+                                                        "Text": "suitable measures accordingly. Social media "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "298.33197",
+                                                            "552.064026",
+                                                            "298.33197",
+                                                            "552.064026"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "304.871948",
+                                                            "551.956055",
+                                                            "312.68396",
+                                                            "560.26001"
+                                                        ],
+                                                        "Text": "is "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "312.827972",
+                                                            "552.064026",
+                                                            "312.827972",
+                                                            "552.064026"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "319.475952",
+                                                            "549.460022",
+                                                            "361.271973",
+                                                            "560.26001"
+                                                        ],
+                                                        "Text": "certainly "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "361.031982",
+                                                            "552.064026",
+                                                            "361.031982",
+                                                            "552.064026"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "367.57196",
+                                                            "551.956055",
+                                                            "382.727966",
+                                                            "559.012024"
+                                                        ],
+                                                        "Text": "not "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "382.847961",
+                                                            "552.064026",
+                                                            "382.847961",
+                                                            "552.064026"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "389.351959",
+                                                            "549.460022",
+                                                            "489.455963",
+                                                            "560.26001"
+                                                        ],
+                                                        "Text": "the first technology "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "489.215973",
+                                                            "552.064026",
+                                                            "489.215973",
+                                                            "552.064026"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "495.719971",
+                                                            "551.956055",
+                                                            "522.707947",
+                                                            "560.26001"
+                                                        ],
+                                                        "Text": "to be "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "522.659973",
+                                                            "552.064026",
+                                                            "522.659973",
+                                                            "552.064026"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.4559937",
+                                                            "535.68396",
+                                                            "199.487991",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "associated with potentially"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "199.343994",
+                                                            "538.263977",
+                                                            "199.343994",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "199.559998",
+                                                            "538.263977",
+                                                            "199.559998",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "203.304001",
+                                                            "538.107971",
+                                                            "267.108002",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "‘addictive’ or"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "267.036011",
+                                                            "538.263977",
+                                                            "267.036011",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "267.108002",
+                                                            "538.263977",
+                                                            "267.108002",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "269.939972",
+                                                            "535.68396",
+                                                            "310.235992",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "negative"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "310.523987",
+                                                            "538.263977",
+                                                            "310.523987",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "310.571991",
+                                                            "538.263977",
+                                                            "310.571991",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "313.992004",
+                                                            "535.707947",
+                                                            "458.975983",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "societal impacts [6,7], nor will"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "459.227966",
+                                                            "538.263977",
+                                                            "459.227966",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "459.263977",
+                                                            "538.263977",
+                                                            "459.263977",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "462.371979",
+                                                            "538.191956",
+                                                            "468.707977",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "it"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "468.695984",
+                                                            "538.263977",
+                                                            "468.695984",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "468.731964",
+                                                            "538.263977",
+                                                            "468.731964",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "471.47995",
+                                                            "538.107971",
+                                                            "482.483948",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "be"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "482.819946",
+                                                            "538.263977",
+                                                            "482.819946",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "482.879974",
+                                                            "538.263977",
+                                                            "482.879974",
+                                                            "538.263977"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "485.759949",
+                                                            "538.107971",
+                                                            "522.791931",
+                                                            "546.711975"
+                                                        ],
+                                                        "Text": "the last. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.1679459",
+                                                            "521.859985",
+                                                            "271.259949",
+                                                            "532.659973"
+                                                        ],
+                                                        "Text": "Moral panics concerning new technology "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "271.019958",
+                                                            "524.463989",
+                                                            "271.019958",
+                                                            "524.463989"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "274.823914",
+                                                            "521.859985",
+                                                            "316.247925",
+                                                            "532.659973"
+                                                        ],
+                                                        "Text": "(e.g., the "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "316.33194",
+                                                            "524.463989",
+                                                            "316.33194",
+                                                            "524.463989"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "319.499939",
+                                                            "521.859985",
+                                                            "357.467957",
+                                                            "532.659973"
+                                                        ],
+                                                        "Text": "printing "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "357.347961",
+                                                            "524.463989",
+                                                            "357.347961",
+                                                            "524.463989"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "360.515961",
+                                                            "521.872009",
+                                                            "522.957581",
+                                                            "532.659973"
+                                                        ],
+                                                        "Text": "press, the telephone, microwaves, "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.1799469",
+                                                            "508.059998",
+                                                            "517.307983",
+                                                            "518.859985"
+                                                        ],
+                                                        "Text": "the internet, social media) are, historically speaking, either overblown or demonstrably false. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "520.655945",
+                                                            "510.664001",
+                                                            "520.655945",
+                                                            "510.664001"
+                                                        ],
+                                                        "Text": " "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "P",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001776",
+                                        "Text": "Understanding  the  impact of technology  on people and  society  remains crucial, but clinicians  and researchers might also want to consider what drives ‘technophobia’ in the first place.  ",
+                                        "ObjId": "73",
+                                        "Pg": "2",
+                                        "A": [
+                                            {
+                                                "O": "Layout",
+                                                "SpaceAfter": "27.625"
+                                            }
+                                        ],
+                                        "K": [
+                                            {
+                                                "Pg": "2",
+                                                "MCID": "6",
+                                                "Content": [
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.1919937",
+                                                            "480.466003",
+                                                            "142.691986",
+                                                            "491.266022"
+                                                        ],
+                                                        "Text": "Understanding "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "142.571991",
+                                                            "483.070007",
+                                                            "142.571991",
+                                                            "483.070007"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "145.955994",
+                                                            "482.962006",
+                                                            "160.463989",
+                                                            "491.266022"
+                                                        ],
+                                                        "Text": "the "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "160.548004",
+                                                            "483.070007",
+                                                            "160.548004",
+                                                            "483.070007"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "163.968002",
+                                                            "480.466003",
+                                                            "266.424011",
+                                                            "491.266022"
+                                                        ],
+                                                        "Text": "impact of technology "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "266.18399",
+                                                            "483.070007",
+                                                            "266.18399",
+                                                            "483.070007"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "269.879974",
+                                                            "480.477997",
+                                                            "337.29599",
+                                                            "491.266022"
+                                                        ],
+                                                        "Text": "on people and "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "337.403992",
+                                                            "483.070007",
+                                                            "337.403992",
+                                                            "483.070007"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "341.243958",
+                                                            "480.466003",
+                                                            "374.819946",
+                                                            "491.266022"
+                                                        ],
+                                                        "Text": "society "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "374.579987",
+                                                            "483.070007",
+                                                            "374.579987",
+                                                            "483.070007"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "377.987976",
+                                                            "481.390015",
+                                                            "522.575989",
+                                                            "491.266022"
+                                                        ],
+                                                        "Text": "remains crucial, but clinicians "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "522.695984",
+                                                            "483.070007",
+                                                            "522.695984",
+                                                            "483.070007"
+                                                        ],
+                                                        "Text": " "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "72.4679947",
+                                                            "466.666016",
+                                                            "258.384003",
+                                                            "477.466034"
+                                                        ],
+                                                        "Text": "and researchers might also want to con"
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "259.235992",
+                                                            "466.71402",
+                                                            "499.800049",
+                                                            "477.718018"
+                                                        ],
+                                                        "Text": "sider what drives ‘technophobia’ in the first place. "
+                                                    },
+                                                    {
+                                                        "Type": "Text",
+                                                        "BBox": [
+                                                            "503.015991",
+                                                            "469.27002",
+                                                            "503.015991",
+                                                            "469.27002"
+                                                        ],
+                                                        "Text": " "
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "S": "L",
+                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001813",
+                                        "ObjId": "89",
+                                        "A": [
+                                            {
+                                                "ListNumbering": "Decimal",
+                                                "O": "List"
+                                            }
+                                        ],
+                                        "Type": "StructElem",
+                                        "K": [
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001778",
+                                                "ObjId": "92",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001779",
+                                                        "Text": "1. ",
+                                                        "ObjId": "74",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "7",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "73.3559952",
+                                                                            "427.75",
+                                                                            "81.0239944",
+                                                                            "435.981995"
+                                                                        ],
+                                                                        "Text": "1. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001781",
+                                                        "Text": "Ellis DA, Davidson BI, Shaw H, Geyer K. (2019). Do smartphone usage scales predict behavior? International Journal of Human-Computer Studies, Special Issue on Human Accuracy. DOI: 10.1016\/j.ijhcs.2019.05.004 ",
+                                                        "ObjId": "75",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "8",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.163994",
+                                                                            "425.265991",
+                                                                            "522.896057",
+                                                                            "436.06601"
+                                                                        ],
+                                                                        "Text": "Ellis DA, Davidson BI, Shaw H, Geyer K. (2019). Do smartphone usage scales predict "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.0599976",
+                                                                            "413.914001",
+                                                                            "289.416016",
+                                                                            "422.266022"
+                                                                        ],
+                                                                        "Text": "behavior? International Journal of Human"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "290.197998",
+                                                                            "416.39801",
+                                                                            "293.150024",
+                                                                            "417.154022"
+                                                                        ],
+                                                                        "Text": "-"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "294.026001",
+                                                                            "411.477997",
+                                                                            "522.854004",
+                                                                            "422.266022"
+                                                                        ],
+                                                                        "Text": "Computer Studies, Special Issue on Human "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.2039948",
+                                                                            "397.666016",
+                                                                            "225.096008",
+                                                                            "408.466034"
+                                                                        ],
+                                                                        "Text": "Accuracy. DOI: 10.1016\/j.ijhcs."
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "226.369995",
+                                                                            "400.018005",
+                                                                            "286.01001",
+                                                                            "408.406006"
+                                                                        ],
+                                                                        "Text": "2019.05.004 "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001783",
+                                                "ObjId": "93",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001784",
+                                                        "Text": "2. ",
+                                                        "ObjId": "76",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "9",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.3839951",
+                                                                            "386.329987",
+                                                                            "81.0239944",
+                                                                            "394.561981"
+                                                                        ],
+                                                                        "Text": "2. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001786",
+                                                        "Text": "Ellis DA. Are smartphones really that bad? Improving the psychological measurement of technology-related behaviors. (2019). Computers in Human Behavior. DOI: 10.1016\/j.chb.2019.03.006 ",
+                                                        "ObjId": "77",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "10",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.163994",
+                                                                            "383.845978",
+                                                                            "522.944031",
+                                                                            "394.645996"
+                                                                        ],
+                                                                        "Text": "Ellis DA. Are smartphones really that bad? Improving the psychological measurement "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.371994",
+                                                                            "370.04599",
+                                                                            "147.287994",
+                                                                            "380.846008"
+                                                                        ],
+                                                                        "Text": "of technology"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "147.848007",
+                                                                            "374.977997",
+                                                                            "150.800003",
+                                                                            "375.734009"
+                                                                        ],
+                                                                        "Text": "-"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "151.519989",
+                                                                            "370.057983",
+                                                                            "522.751953",
+                                                                            "380.846008"
+                                                                        ],
+                                                                        "Text": "related behaviors. (2019). Computers in Human Behavior. DOI: "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "73.3559952",
+                                                                            "356.245972",
+                                                                            "201.011993",
+                                                                            "367.04599"
+                                                                        ],
+                                                                        "Text": "10.1016\/j.chb.2019.03.006 "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001788",
+                                                "ObjId": "94",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001789",
+                                                        "Text": "3. ",
+                                                        "ObjId": "78",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "11",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.5399933",
+                                                                            "344.893982",
+                                                                            "81.0239944",
+                                                                            "353.161987"
+                                                                        ],
+                                                                        "Text": "3. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001791",
+                                                        "Text": "Doliński D. (2018). Is Psychology Still a Science of Behaviour? Social Psychological Bulletin. 13. e25025 ",
+                                                        "ObjId": "79",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "12",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.223999",
+                                                                            "342.470001",
+                                                                            "274.040009",
+                                                                            "353.497986"
+                                                                        ],
+                                                                        "Text": "Doliński D. (2018). Is Psychology"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "274.112",
+                                                                            "345.049988",
+                                                                            "274.112",
+                                                                            "345.049988"
+                                                                        ],
+                                                                        "Text": " "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "277.976013",
+                                                                            "344.881989",
+                                                                            "297.056",
+                                                                            "353.497986"
+                                                                        ],
+                                                                        "Text": "Still"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "297.307983",
+                                                                            "345.049988",
+                                                                            "297.307983",
+                                                                            "345.049988"
+                                                                        ],
+                                                                        "Text": " "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "301.123993",
+                                                                            "344.953979",
+                                                                            "305.995972",
+                                                                            "350.653992"
+                                                                        ],
+                                                                        "Text": "a"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "306.019989",
+                                                                            "345.049988",
+                                                                            "306.019989",
+                                                                            "345.049988"
+                                                                        ],
+                                                                        "Text": " "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "310.075989",
+                                                                            "344.881989",
+                                                                            "346.327972",
+                                                                            "353.497986"
+                                                                        ],
+                                                                        "Text": "Science"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "346.663971",
+                                                                            "345.049988",
+                                                                            "346.663971",
+                                                                            "345.049988"
+                                                                        ],
+                                                                        "Text": " "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "350.491974",
+                                                                            "344.893982",
+                                                                            "355.663971",
+                                                                            "350.653992"
+                                                                        ],
+                                                                        "Text": "o"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "356.589966",
+                                                                            "342.445984",
+                                                                            "522.897949",
+                                                                            "353.246002"
+                                                                        ],
+                                                                        "Text": "f Behaviour? Social Psychological "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.2279968",
+                                                                            "331.093994",
+                                                                            "169.920013",
+                                                                            "339.446014"
+                                                                        ],
+                                                                        "Text": "Bulletin. 13. e25025 "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001793",
+                                                "ObjId": "95",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001794",
+                                                        "Text": "4. ",
+                                                        "ObjId": "80",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "13",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.1679916",
+                                                                            "317.329987",
+                                                                            "81.0239944",
+                                                                            "325.561981"
+                                                                        ],
+                                                                        "Text": "4. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001796",
+                                                        "Text": "Sassenberg K, Ditrich L. (2019). Research in Social Psychology Changed Between 2011 and 2016: Larger Sample Sizes, More Self-Report Measures, and More Online Studies. Advances in Methods and Practices in Psychological Science. DOI: 10.1177\/2515245919838781 ",
+                                                        "ObjId": "81",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "14",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.523994",
+                                                                            "314.845978",
+                                                                            "522.559937",
+                                                                            "325.645996"
+                                                                        ],
+                                                                        "Text": "Sassenberg K, Ditrich L. (2019). Research in Social Psychology Changed Between "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.3839951",
+                                                                            "301.04599",
+                                                                            "306.455994",
+                                                                            "311.846008"
+                                                                        ],
+                                                                        "Text": "2011 and 2016: Larger Sample Sizes, More Self"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "306.537994",
+                                                                            "305.977997",
+                                                                            "309.490021",
+                                                                            "306.734009"
+                                                                        ],
+                                                                        "Text": "-"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "310.354004",
+                                                                            "301.057983",
+                                                                            "522.994019",
+                                                                            "311.846008"
+                                                                        ],
+                                                                        "Text": "Report Measures, and More Online Studies. "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.2039948",
+                                                                            "289.69397",
+                                                                            "290.580017",
+                                                                            "298.04599"
+                                                                        ],
+                                                                        "Text": "Advances in Methods and Practi"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "291.349976",
+                                                                            "287.245972",
+                                                                            "522.829956",
+                                                                            "298.04599"
+                                                                        ],
+                                                                        "Text": "ces in Psychological Science. DOI: "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "73.3559952",
+                                                                            "275.797974",
+                                                                            "210.359985",
+                                                                            "284.185974"
+                                                                        ],
+                                                                        "Text": "10.1177\/2515245919838781 "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001798",
+                                                "ObjId": "96",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001799",
+                                                        "Text": "5. ",
+                                                        "ObjId": "82",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "15",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.4079971",
+                                                                            "262.093994",
+                                                                            "81.0239944",
+                                                                            "270.385986"
+                                                                        ],
+                                                                        "Text": "5. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001801",
+                                                        "Text": "Andrews S, Ellis DA, Shaw H, Piwek L. (2015). Beyond self-report: Tools to compare estimated and real-world smartphone use. PLoS One. DOI: 10.1371\/journal.pone.0139004 ",
+                                                        "ObjId": "83",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "16",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.199997",
+                                                                            "259.645996",
+                                                                            "400.771973",
+                                                                            "270.446014"
+                                                                        ],
+                                                                        "Text": "Andrews S, Ellis DA, Shaw H, Piwek L. (2015). Beyond self"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "400.857971",
+                                                                            "264.578003",
+                                                                            "403.809998",
+                                                                            "265.334015"
+                                                                        ],
+                                                                        "Text": "-"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "404.409973",
+                                                                            "259.65799",
+                                                                            "522.945984",
+                                                                            "270.446014"
+                                                                        ],
+                                                                        "Text": "report: Tools to compare "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.3239975",
+                                                                            "248.341995",
+                                                                            "158.963989",
+                                                                            "256.645996"
+                                                                        ],
+                                                                        "Text": "estimated and real"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "159.727997",
+                                                                            "250.778",
+                                                                            "162.679993",
+                                                                            "251.533997"
+                                                                        ],
+                                                                        "Text": "-"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "163.472",
+                                                                            "245.845993",
+                                                                            "506.108032",
+                                                                            "256.645996"
+                                                                        ],
+                                                                        "Text": "world smartphone use. PLoS One. DOI: 10.1371\/journal.pone.0139004 "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001803",
+                                                "ObjId": "97",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001804",
+                                                        "Text": "6. ",
+                                                        "ObjId": "84",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "17",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.5519943",
+                                                                            "234.494003",
+                                                                            "81.0239944",
+                                                                            "242.498016"
+                                                                        ],
+                                                                        "Text": "6. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001806",
+                                                        "Text": "Parker S. Science Discoveries: Alexander Graham Bell. Philadelphia, USA: Chelsea House Publishers; 1995. ",
+                                                        "ObjId": "85",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "18",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.211998",
+                                                                            "234.494003",
+                                                                            "206.635986",
+                                                                            "242.846008"
+                                                                        ],
+                                                                        "Text": "Parker S. Science D"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "207.362015",
+                                                                            "232.058014",
+                                                                            "522.866089",
+                                                                            "242.846008"
+                                                                        ],
+                                                                        "Text": "iscoveries: Alexander Graham Bell. Philadelphia, USA: Chelsea "
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.2519913",
+                                                                            "219.170013",
+                                                                            "188.999985",
+                                                                            "229.046005"
+                                                                        ],
+                                                                        "Text": "House Publishers; 1995. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "S": "LI",
+                                                "ID": "AD240722-1046-24.2.20964-ADBE-000000001808",
+                                                "ObjId": "88",
+                                                "Type": "StructElem",
+                                                "K": [
+                                                    {
+                                                        "S": "Lbl",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001809",
+                                                        "Text": "7. ",
+                                                        "ObjId": "86",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "19",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "72.2639923",
+                                                                            "206.900009",
+                                                                            "81.0239944",
+                                                                            "214.964005"
+                                                                        ],
+                                                                        "Text": "7. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "S": "LBody",
+                                                        "ID": "AD240722-1046-24.2.20964-ADBE-000000001811",
+                                                        "Text": "Edgerton D. (1995). Technophobia then and now. Nature. 376(6542):653–4. ",
+                                                        "ObjId": "87",
+                                                        "Pg": "2",
+                                                        "K": [
+                                                            {
+                                                                "Pg": "2",
+                                                                "MCID": "20",
+                                                                "Content": [
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "108.163994",
+                                                                            "204.416",
+                                                                            "458.984039",
+                                                                            "215.216003"
+                                                                        ],
+                                                                        "Text": "Edgerton D. (1995). Technophobia then and now. Nature. 376(6542):653"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "459.843994",
+                                                                            "209.671997",
+                                                                            "466.036011",
+                                                                            "210.152008"
+                                                                        ],
+                                                                        "Text": "–"
+                                                                    },
+                                                                    {
+                                                                        "Type": "Text",
+                                                                        "BBox": [
+                                                                            "466.20401",
+                                                                            "206.900009",
+                                                                            "475.059998",
+                                                                            "215.132004"
+                                                                        ],
+                                                                        "Text": "4. "
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

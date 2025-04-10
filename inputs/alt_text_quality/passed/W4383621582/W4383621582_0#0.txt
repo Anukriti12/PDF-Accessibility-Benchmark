@@ -1,0 +1,5 @@
+A flowchart titled "Diagram of Process for Selecting Drugs for Negotiation for Initial Price Applicability Year 2026" visually outlines the steps for selecting negotiation-eligible drugs. The flowchart has four main stages, represented as rectangular boxes connected by arrows from left to right.
+The first stage, "Covered Part D Drugs," represents all covered Part D drugs as defined in §1860D-2(e).
+The second stage, "Qualifying Single-Source Drugs," refers to drugs identified as single-source under §1192(e). A smaller box beneath this stage lists exclusions, including certain orphan drugs, low-spend Medicare drugs, and plasma-derived products.
+The third stage, "Negotiation-Eligible Drugs," includes drugs identified as eligible for negotiation under §1192(d). A box above this stage highlights an exception for small biotech drugs. 
+The final stage, "Selected Drugs," represents the set of drugs chosen for negotiation under §1192(f). A box above this stage indicates removal criteria, specifically delayed biologics due to the high likelihood of biosimilar market entry.

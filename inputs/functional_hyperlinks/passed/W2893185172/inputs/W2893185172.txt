@@ -1,0 +1,49 @@
+All links in the pdf document:
+Page Number 1: Internal Link -> From Rect(235.59300231933594, 285.156005859375, 241.5570068359375, 291.64300537109375) to point Point(309.619, 105.027) on page 1 at named destination cite.beinert1997iron
+Page Number 1: Internal Link -> From Rect(243.53599548339844, 285.156005859375, 249.5, 291.64300537109375) to point Point(309.619, 67.169) on page 1 at named destination cite.hoffman2014mechanism
+Page Number 1: Internal Link -> From Rect(167.6300048828125, 529.9219970703125, 173.59300231933594, 536.4089965820312) to point Point(51.893, 206.374) on page 2 at named destination cite.spatzal2011evidence
+Page Number 1: Internal Link -> From Rect(173.8560028076172, 529.9219970703125, 179.82000732421875, 536.4089965820312) to point Point(309.619, 743.262) on page 2 at named destination cite.lancaster2011x
+Page Number 1: Internal Link -> From Rect(121.08300018310547, 737.8380126953125, 128.0570068359375, 746.2509765625) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 1: Internal Link -> From Rect(440.8429870605469, 311.8429870605469, 447.8160095214844, 320.2560119628906) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 1: Internal Link -> From Rect(503.8370056152344, 346.2139892578125, 510.8110046386719, 354.62701416015625) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 1: Internal Link -> From Rect(325.9119873046875, 369.1289978027344, 332.885986328125, 377.5409851074219) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 1: Internal Link -> From Rect(539.7830200195312, 425.9159851074219, 546.7559814453125, 436.7640075683594) to point Point(80.774, 568.699) on page 1 at named destination figure.1
+Page Number 1: Internal Link -> From Rect(445.135986328125, 437.8710021972656, 452.1099853515625, 446.28399658203125) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 1: Internal Link -> From Rect(513.3880004882812, 459.09600830078125, 519.3510131835938, 465.5820007324219) to point Point(309.619, 695.939) on page 2 at named destination cite.shavitt2009many
+Page Number 1: Internal Link -> From Rect(505.07598876953125, 470.5530090332031, 511.0400085449219, 477.03900146484375) to point Point(309.619, 667.546) on page 2 at named destination cite.white1999ab
+Page Number 1: Internal Link -> From Rect(513.0180053710938, 470.5530090332031, 522.9530029296875, 477.03900146484375) to point Point(305.966, 599.302) on page 2 at named destination cite.schollwock2005density
+Page Number 1: Internal Link -> From Rect(372.1199951171875, 493.4670104980469, 382.05499267578125, 499.9530029296875) to point Point(305.966, 589.837) on page 2 at named destination cite.HolTubUmr-JCTC-16
+Page Number 1: Internal Link -> From Rect(384.03399658203125, 493.4670104980469, 393.968994140625, 499.9530029296875) to point Point(305.966, 551.979) on page 2 at named destination cite.LiOttHolShaUmr-ARX-18
+Page Number 1: Internal Link -> From Rect(412.3240051269531, 646.1820068359375, 419.2980041503906, 654.594970703125) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 1: Internal Link -> From Rect(392.15301513671875, 667.406005859375, 402.0880126953125, 673.8930053710938) to point Point(305.966, 533.05) on page 2 at named destination cite.munck1975nitrogenase
+Page Number 1: Internal Link -> From Rect(404.0669860839844, 667.406005859375, 414.00201416015625, 673.8930053710938) to point Point(305.966, 391.083) on page 2 at named destination cite.bjornsson2017revisiting
+Page Number 1: Internal Link -> From Rect(467.2139892578125, 713.2349853515625, 477.14898681640625, 719.7210083007812) to point Point(305.966, 533.05) on page 2 at named destination cite.munck1975nitrogenase
+Page Number 1: Internal Link -> From Rect(479.12701416015625, 713.2349853515625, 489.06201171875, 719.7210083007812) to point Point(305.966, 476.263) on page 2 at named destination cite.yoo2000mossbauer
+Page Number 2: Internal Link -> From Rect(282.42999267578125, 247.90899658203125, 289.0299987792969, 255.67901611328125) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 2: Internal Link -> From Rect(129.5050048828125, 532.530029296875, 136.10499572753906, 540.301025390625) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 2: Internal Link -> From Rect(80.03700256347656, 597.1699829101562, 89.97200012207031, 603.656982421875) to point Point(305.966, 372.154) on page 2 at named destination cite.sharma_low-energy_2014
+Page Number 2: Internal Link -> From Rect(90.23500061035156, 597.1699829101562, 100.16999816894531, 603.656982421875) to point Point(305.966, 353.225) on page 2 at named destination cite.spmps2017
+Page Number 2: Internal Link -> From Rect(194.85000610351562, 610.3159790039062, 201.82400512695312, 618.72900390625) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 2: Internal Link -> From Rect(117.05000305175781, 632.1790161132812, 124.02400207519531, 644.134033203125) to point Point(80.517, 304.999) on page 1 at named destination figure.2
+Page Number 2: Internal Link -> From Rect(118.65899658203125, 701.9719848632812, 130.61399841308594, 710.385009765625) to point Point(305.966, 334.296) on page 2 at named destination cite.TubMejEpsHaiLevHugJiaMcCBabHeaWha-ARX-18
+Page Number 2: Internal Link -> From Rect(64.177001953125, 735.2919921875, 71.1510009765625, 747.2470092773438) to point Point(80.774, 568.699) on page 1 at named destination figure.1
+Page Number 2: Internal Link -> From Rect(442.8869934082031, 86.3909912109375, 449.8609924316406, 94.80401611328125) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 2: Internal Link -> From Rect(385.17498779296875, 109.30499267578125, 392.14801025390625, 117.718017578125) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 2: Internal Link -> From Rect(537.0150146484375, 212.41900634765625, 543.989013671875, 220.83197021484375) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 2: Internal Link -> From Rect(358.93499755859375, 257.7919921875, 368.8699951171875, 264.27899169921875) to point Point(305.966, 296.438) on page 2 at named destination cite.linkToFCIDUMP
+Page Number 2: Internal Link -> From Rect(426.5889892578125, 315.0769958496094, 436.52398681640625, 321.5639953613281) to point Point(305.966, 277.509) on page 2 at named destination cite.becke1993density
+Page Number 2: Internal Link -> From Rect(438.50299072265625, 315.0769958496094, 448.43798828125, 321.5639953613281) to point Point(305.966, 249.115) on page 2 at named destination cite.stephens1994ab
+Page Number 2: Internal Link -> From Rect(536.322998046875, 315.0769958496094, 546.2579956054688, 321.5639953613281) to point Point(305.966, 230.186) on page 2 at named destination cite.jorge2009contracted
+Page Number 2: Internal Link -> From Rect(520.416015625, 326.53399658203125, 530.3510131835938, 333.02099609375) to point Point(305.966, 211.257) on page 2 at named destination cite.weigend2005balanced
+Page Number 2: Internal Link -> From Rect(344.0260009765625, 351.1369934082031, 355.98199462890625, 359.54998779296875) to point Point(305.966, 391.083) on page 2 at named destination cite.bjornsson2017revisiting
+Page Number 2: Internal Link -> From Rect(415.6319885253906, 385.010009765625, 421.22198486328125, 393.9209899902344) to point Point(91.883, 738.032) on page 2 at named destination table.1
+Page Number 2: Internal Link -> From Rect(434.97900390625, 396.4670104980469, 441.9530029296875, 407.3160095214844) to point Point(89.48, 260.172) on page 2 at named destination figure.3
+Page Number 2: Internal Link -> From Rect(496.22900390625, 418.19000244140625, 506.16400146484375, 424.677001953125) to point Point(305.966, 533.05) on page 2 at named destination cite.munck1975nitrogenase
+Page Number 2: Internal Link -> From Rect(506.427001953125, 418.19000244140625, 516.3619995117188, 424.677001953125) to point Point(305.966, 504.657) on page 2 at named destination cite.zimmermann1978nitrogenase
+Page Number 2: Internal Link -> From Rect(481.8500061035156, 453.75299072265625, 488.8240051269531, 464.60101318359375) to point Point(80.517, 304.999) on page 1 at named destination figure.2
+Page Number 2: Internal Link -> From Rect(474.34100341796875, 509.84698486328125, 480.30499267578125, 516.333984375) to point Point(309.619, 714.868) on page 2 at named destination cite.ReiWieSvoWecTro-PNAS-17
+Page Number 3: External Link -> URL: http://dx.doi.org/{10.1063/1.3695642} at Rect(436.7799987792969, 175.572021484375, 546.7559814453125, 186.22198486328125)
+Page Number 3: External Link -> URL: http://dx.doi.org/{10.1063/1.3695642} at Rect(304.9700012207031, 185.7239990234375, 382.9840087890625, 195.68701171875)
+Page Number 3: External Link -> URL: http://dx.doi.org/10.1021/acs.jctc.6b01028 at Rect(348.7699890136719, 233.0469970703125, 510.0190124511719, 243.00897216796875)
+Page Number 3: External Link -> URL: http://dx.doi.org/10.1021/acs.jctc.7b00270 at Rect(404.72601318359375, 440.5790100097656, 546.7559814453125, 450.7860107421875)
+Page Number 3: External Link -> URL: http://dx.doi.org/10.1021/acs.jctc.7b00270 at Rect(304.9700012207031, 450.7309875488281, 407.3320007324219, 460.6929931640625)

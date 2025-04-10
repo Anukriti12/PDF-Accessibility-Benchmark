@@ -1,0 +1,873 @@
+{
+    "creation_date": "2018-09-20T12:50:02-05:00",
+    "mod_date": "2024-12-17T06:26:51-08:00",
+    "author": "Justin Friesen",
+    "title": "",
+    "subject": "",
+    "keywords": "",
+    "producer": "Microsoft® Word 2010",
+    "creator": "Microsoft® Word 2010",
+    "standard": "",
+    "lang": "en-CA",
+    "num_pages": "2",
+    "tagged": "true",
+    "StructTreeRoot": {
+        "K": [
+            {
+                "S": "Part",
+                "ObjId": "22",
+                "Type": "StructElem",
+                "K": [
+                    {
+                        "S": "H1",
+                        "Text": "Perceiving happiness in an intergroup context: The role of race and attention to the eyes in differentiating between true and false smiles ",
+                        "ObjId": "23",
+                        "Pg": "1",
+                        "K": [
+                            {
+                                "Pg": "1",
+                                "MCID": "0",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "74.3759613",
+                                            "706.5",
+                                            "537.588013",
+                                            "717.252014"
+                                        ],
+                                        "Text": "Perceiving happiness in an intergroup context: The role of race and attention to the eyes in "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "193.159958",
+                                            "678.880005",
+                                            "419.229919",
+                                            "689.632019"
+                                        ],
+                                        "Text": "differentiating between true and false smiles "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "ObjId": "26",
+                        "Pg": "1",
+                        "K": [
+                            {
+                                "Pg": "1",
+                                "MCID": "1",
+                                "Content": ""
+                            }
+                        ]
+                    },
+                    {
+                        "S": "H1",
+                        "Text": "Online Supplemental Material ",
+                        "ObjId": "27",
+                        "Pg": "1",
+                        "K": [
+                            {
+                                "Pg": "1",
+                                "MCID": "2",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "228.469955",
+                                            "625.924011",
+                                            "243.853958",
+                                            "634.432007"
+                                        ],
+                                        "Text": "On"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "244.309998",
+                                            "623.691956",
+                                            "384.070007",
+                                            "634.44397"
+                                        ],
+                                        "Text": "line Supplemental Material "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "H2",
+                        "Text": "Stimuli Development ",
+                        "ObjId": "28",
+                        "Pg": "1",
+                        "K": [
+                            {
+                                "Pg": "1",
+                                "MCID": "3",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4440002",
+                                            "598.324036",
+                                            "78.1800003",
+                                            "606.844055"
+                                        ],
+                                        "Text": "S"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "78.9719925",
+                                            "596.09198",
+                                            "179.660004",
+                                            "606.83197"
+                                        ],
+                                        "Text": "timuli Development "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "To create the facial stimuli, we collected photographs of true and false smiles from 84 individuals recruited on a university campus (22 Black females, 20 Black males, 21 White females, and 21 White males). For true smiles, the photographer encouraged the activation of muscles around the eye (e.g., by attempting to make participants laugh). For false smiles, photo subjects were instructed to smile with their mouths while maintaining neutral eyes. Using Adobe Photoshop (San Jose, CA), all photographs were cropped to create oval images that focused on facial features and excluded the target’s hair. In keeping with past work (Kawakami et al., 2014), photographs were grey-scaled, standardized for size (360 × 450 pixels), and the mean luminance (brightness) was set within a restricted range of 187.46 to 188.68 pixels per intensity level. ",
+                        "ObjId": "29",
+                        "Pg": "1",
+                        "K": [
+                            {
+                                "Pg": "1",
+                                "MCID": "4",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2279968",
+                                            "571.072021",
+                                            "134.539993",
+                                            "579.375977"
+                                        ],
+                                        "Text": "To create the "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "137.779999",
+                                            "568.575989",
+                                            "484.76001",
+                                            "579.375977"
+                                        ],
+                                        "Text": "facial stimuli, we collected photographs of true and false smiles from 84 "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2159958",
+                                            "540.976013",
+                                            "505.451996",
+                                            "551.776001"
+                                        ],
+                                        "Text": "individuals recruited on a university campus (22 Black females, 20 Black males, 21 White "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2639923",
+                                            "513.346008",
+                                            "520.486023",
+                                            "524.145996"
+                                        ],
+                                        "Text": "females, and 21 White males). For true smiles, the photographer encouraged the activation of "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2159958",
+                                            "485.745972",
+                                            "530.090027",
+                                            "496.54599"
+                                        ],
+                                        "Text": "muscles around the eye (e.g., by attempting to make participants laugh). For false smiles, photo "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.635994",
+                                            "458.145996",
+                                            "442.630005",
+                                            "468.946014"
+                                        ],
+                                        "Text": "subjects were instructed to smile with their mouths while maintaining neutral "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "445.929993",
+                                            "458.145996",
+                                            "536.445984",
+                                            "468.946014"
+                                        ],
+                                        "Text": "eyes. Using Adobe "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2159882",
+                                            "430.54599",
+                                            "527.017944",
+                                            "441.346008"
+                                        ],
+                                        "Text": "Photoshop (San Jose, CA), all photographs were cropped to create oval images that focused on "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4919891",
+                                            "402.970001",
+                                            "537.972046",
+                                            "413.997986"
+                                        ],
+                                        "Text": "facial features and excluded the target’s hair. In keeping with past work (Kawakami et al., 2014), "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0839844",
+                                            "375.346008",
+                                            "535.495972",
+                                            "386.146027"
+                                        ],
+                                        "Text": "photographs were grey-scaled, standardized for size (360 × 450 pixels), and the mean luminance "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.5999832",
+                                            "347.725983",
+                                            "507.704041",
+                                            "358.526001"
+                                        ],
+                                        "Text": "(brightness) was set within a restricted range of 187.46 to 188.68 pixels per intensity level. "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " To assess the perceived happiness of each facial component (i.e., eyes and mouths), we split the image of each target face into top and bottom halves. This produced stimuli related to a true mouth, a false mouth, true eyes, and false eyes for each target. In an initial pretest, White undergraduate students (N = 63) rated the resulting stimuli on a nine-point scale anchored at 1 (not at all happy) and 9 (very happy). To limit participant fatigue, each student viewed half of the total stimuli, randomly selected and presented individually. Based on these ratings, 64 target individuals (16 from each gender and race) were selected and for each target an image of a true smile and a false smile was created. Importantly, for each target we composed images that utilized the same mouth for the true and false smile image with only the eyes differing (i.e., with ",
+                        "ObjId": "30",
+                        "Pg": "1",
+                        "K": [
+                            {
+                                "Pg": "1",
+                                "MCID": "5",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0240021",
+                                            "322.72995",
+                                            "72.0240021",
+                                            "322.72995"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.223991",
+                                            "320.125977",
+                                            "526.712036",
+                                            "330.925995"
+                                        ],
+                                        "Text": "To assess the perceived happiness of each facial component (i.e., eyes and mouths), we "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.6359863",
+                                            "292.526001",
+                                            "532.630066",
+                                            "303.326019"
+                                        ],
+                                        "Text": "split the image of each target face into top and bottom halves. This produced stimuli related to a "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.179985",
+                                            "264.925964",
+                                            "317.329956",
+                                            "275.725983"
+                                        ],
+                                        "Text": "true mouth, a false mouth, true eyes, and false eyes "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "320.569977",
+                                            "264.925995",
+                                            "521.234009",
+                                            "275.726013"
+                                        ],
+                                        "Text": "for each target. In an initial pretest, White "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1319885",
+                                            "237.325989",
+                                            "189.527985",
+                                            "248.125992"
+                                        ],
+                                        "Text": "undergraduate students ("
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "189.751984",
+                                            "239.761993",
+                                            "198.703979",
+                                            "247.765991"
+                                        ],
+                                        "Text": "N"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "198.019989",
+                                            "239.929993",
+                                            "198.019989",
+                                            "239.929993"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "201.380005",
+                                            "237.325989",
+                                            "522.850037",
+                                            "248.125992"
+                                        ],
+                                        "Text": "= 63) rated the resulting stimuli on a nine-point scale anchored at 1 "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.6000137",
+                                            "210.217987",
+                                            "75.7080154",
+                                            "220.441986"
+                                        ],
+                                        "Text": "("
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "76.1520157",
+                                            "209.86998",
+                                            "151.512024",
+                                            "220.525986"
+                                        ],
+                                        "Text": "not at all happy"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "152.048019",
+                                            "210.217987",
+                                            "191.624023",
+                                            "220.525986"
+                                        ],
+                                        "Text": ") and 9 ("
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "192.272018",
+                                            "209.86998",
+                                            "244.652023",
+                                            "220.525986"
+                                        ],
+                                        "Text": "very happy"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "245.318024",
+                                            "210.217987",
+                                            "267.890015",
+                                            "220.441986"
+                                        ],
+                                        "Text": "). To"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "268.25",
+                                            "212.330002",
+                                            "268.25",
+                                            "212.330002"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "271.477997",
+                                            "209.725998",
+                                            "523.045959",
+                                            "220.526001"
+                                        ],
+                                        "Text": "limit participant fatigue, each student viewed half of "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1800003",
+                                            "182.095993",
+                                            "533.087952",
+                                            "192.895996"
+                                        ],
+                                        "Text": "the total stimuli, randomly selected and presented individually. Based on these ratings, 64 target "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2160034",
+                                            "154.496002",
+                                            "528.576111",
+                                            "165.296005"
+                                        ],
+                                        "Text": "individuals (16 from each gender and race) were selected and for each target an image of a true "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.6360016",
+                                            "126.895996",
+                                            "504.960022",
+                                            "137.695999"
+                                        ],
+                                        "Text": "smile and a false smile was created. Importantly, for each target we composed images that "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1320038",
+                                            "99.2960052",
+                                            "534.947998",
+                                            "110.096001"
+                                        ],
+                                        "Text": "utilized the same mouth for the true and false smile image with only the eyes differing (i.e., with "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "orbicularis oculi muscle activation or not). These 128 images were used in all experiments except 2.  ",
+                        "ObjId": "31",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "0",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3479919",
+                                            "709.055969",
+                                            "152.18399",
+                                            "717.395935"
+                                        ],
+                                        "Text": "orbicularis oculi"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "152.419983",
+                                            "709.199951",
+                                            "152.419983",
+                                            "709.199951"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "155.612",
+                                            "706.596008",
+                                            "418.98999",
+                                            "717.395996"
+                                        ],
+                                        "Text": "muscle activation or not). These 128 images were used "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "422.181976",
+                                            "706.608032",
+                                            "508.078003",
+                                            "717.395996"
+                                        ],
+                                        "Text": "in all experiments "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3239899",
+                                            "678.988037",
+                                            "103.339989",
+                                            "688.528015"
+                                        ],
+                                        "Text": "except "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "106.700005",
+                                            "681.580017",
+                                            "112.040001",
+                                            "689.692017"
+                                        ],
+                                        "Text": "2"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "113.18",
+                                            "681.460022",
+                                            "114.512001",
+                                            "682.780029"
+                                        ],
+                                        "Text": "."
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "115.340004",
+                                            "681.580017",
+                                            "115.340004",
+                                            "681.580017"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "118.340004",
+                                            "681.580017",
+                                            "118.340004",
+                                            "681.580017"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "H2",
+                        "Text": "Investigation of Possible Stimuli Confounds ",
+                        "ObjId": "33",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "1",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2639542",
+                                            "651.279968",
+                                            "295.483917",
+                                            "662.044006"
+                                        ],
+                                        "Text": "Investigation of Possible Stimuli Confounds "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " One reviewer suggested that the stimuli used in Experiments 1 and 3-6 might systematically differ in pupil dilation in the photographed individuals. In particular, he\/she suggested the possibility that Black targets expressing false smiles might have more dilated pupils than the other target categories, presenting an alternative explanation for some of the results. To investigate this possibility, the photographs were printed and a research assistant, masked to condition and study purpose, measured the ratio of pupil to iris for each stimulus using a ruler—to get an objective measure of pupil dilation. The research assistant reported that because the images were initially grayscaled before they were presented to participants, eye contrast was often obscured and she was unable to accurately measure the eyes of many of the stimuli. This finding suggests that even if pupil differences were present, they were unlikely to affect participants’ responses. ",
+                        "ObjId": "34",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "2",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0240173",
+                                            "623.776001",
+                                            "478.726013",
+                                            "634.575989"
+                                        ],
+                                        "Text": " One reviewer suggested that the stimuli used in Experiments 1 and 3-6 might "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.6360168",
+                                            "596.175964",
+                                            "506.735992",
+                                            "606.975952"
+                                        ],
+                                        "Text": "systematically differ in pupil dilation in the photographed individuals. In particular, he\/she "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.6360168",
+                                            "568.575989",
+                                            "119.180023",
+                                            "579.375977"
+                                        ],
+                                        "Text": "suggested "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "122.335999",
+                                            "568.575989",
+                                            "510.248016",
+                                            "579.375977"
+                                        ],
+                                        "Text": "the possibility that Black targets expressing false smiles might have more dilated "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0839996",
+                                            "540.976013",
+                                            "510.960022",
+                                            "551.776001"
+                                        ],
+                                        "Text": "pupils than the other target categories, presenting an alternative explanation for some of the "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0839996",
+                                            "513.346008",
+                                            "515.541992",
+                                            "524.145996"
+                                        ],
+                                        "Text": "results. To investigate this possibility, the photographs were printed and a research assistant, "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2160034",
+                                            "485.745972",
+                                            "511.055969",
+                                            "496.54599"
+                                        ],
+                                        "Text": "masked to condition and study purpose, measured the ratio of pupil to iris for each stimulus "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1320038",
+                                            "458.145996",
+                                            "131.951996",
+                                            "468.946014"
+                                        ],
+                                        "Text": "using a ruler"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "131.804001",
+                                            "463.402008",
+                                            "144.007996",
+                                            "463.881989"
+                                        ],
+                                        "Text": "—"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "144.056",
+                                            "458.145996",
+                                            "530.671997",
+                                            "468.946014"
+                                        ],
+                                        "Text": "to get an objective measure of pupil dilation. The research assistant reported that "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0599976",
+                                            "430.54599",
+                                            "512.006042",
+                                            "441.346008"
+                                        ],
+                                        "Text": "because the images were initially grayscaled before they were presented to participants, eye "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3239975",
+                                            "402.945984",
+                                            "524.280029",
+                                            "413.746002"
+                                        ],
+                                        "Text": "contrast was often obscured and she was unable to accurately measure the eyes of many of the "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.635994",
+                                            "375.346008",
+                                            "526.127991",
+                                            "386.146027"
+                                        ],
+                                        "Text": "stimuli. This finding suggests that even if pupil differences were present, they were unlikely to "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4679947",
+                                            "347.737976",
+                                            "149.963989",
+                                            "358.526001"
+                                        ],
+                                        "Text": "affect participan"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "150.263977",
+                                            "347.773987",
+                                            "214.09198",
+                                            "358.573975"
+                                        ],
+                                        "Text": "ts’ responses."
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "214.969971",
+                                            "350.329987",
+                                            "214.969971",
+                                            "350.329987"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " Additionally, we addressed the possibility of not just pupil size as a confound, but also other potential stimuli-based differences. In particular, in Experiment 2 we replicated the pattern of findings from Experiment 1 using a new set of stimuli (as recommended by Westfall, Judd, & Kenny, 2015). This set of faces was created using FaceGen software, which allowed us to manipulate the stimuli faces in a highly controlled manner such that true and false smiles only differed in the eye regions, and such that the magnitude of any morphological differences in expression was the same across target race.  ",
+                        "ObjId": "35",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "3",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0239563",
+                                            "320.126007",
+                                            "523.783936",
+                                            "330.926025"
+                                        ],
+                                        "Text": " Additionally, we addressed the possibility of not just pupil size as a confound, but also "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3719559",
+                                            "292.537994",
+                                            "534.919922",
+                                            "303.326019"
+                                        ],
+                                        "Text": "other potential stimuli-based differences. In particular, in Experiment 2 we replicated the pattern "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3719559",
+                                            "264.925995",
+                                            "535.153992",
+                                            "275.726013"
+                                        ],
+                                        "Text": "of findings from Experiment 1 using a new set of stimuli (as recommended by Westfall, Judd, & "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4319534",
+                                            "237.325989",
+                                            "502.655945",
+                                            "248.125992"
+                                        ],
+                                        "Text": "Kenny, 2015). This set of faces was created using FaceGen software, which allowed us to "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2159576",
+                                            "209.726013",
+                                            "523.332031",
+                                            "220.526016"
+                                        ],
+                                        "Text": "manipulate the stimuli faces in a highly controlled manner such that true and false smiles only "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3479538",
+                                            "182.096008",
+                                            "201.019974",
+                                            "192.896011"
+                                        ],
+                                        "Text": "differed in the eye regions, "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "204.464005",
+                                            "182.095993",
+                                            "513.367981",
+                                            "192.895996"
+                                        ],
+                                        "Text": "and such that the magnitude of any morphological differences in "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3240204",
+                                            "154.495987",
+                                            "282.650024",
+                                            "165.29599"
+                                        ],
+                                        "Text": "expression was the same across target race.  "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

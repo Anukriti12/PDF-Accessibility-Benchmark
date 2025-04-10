@@ -1,0 +1,1161 @@
+{
+    "creation_date": "2019-06-24T12:59:18+01:00",
+    "mod_date": "2019-06-24T12:59:44+01:00",
+    "author": "B D",
+    "title": "",
+    "subject": "",
+    "keywords": "",
+    "producer": "Microsoft® Word 2016",
+    "creator": "Microsoft® Word 2016",
+    "standard": "",
+    "lang": "en-GB",
+    "num_pages": "2",
+    "tagged": "true",
+    "StructTreeRoot": {
+        "K": [
+            {
+                "S": "Part",
+                "ObjId": "8",
+                "Type": "StructElem",
+                "K": [
+                    {
+                        "S": "P",
+                        "Text": "Zendle and Bowen-Jones are correct when they point towards methodological shortcomings in research that aims to understand the impact of social media [1]. However, these observations also apply to related research, which considers the impact of technology use more generally. Designs typically involve asking people to consider their personal experience with technology [2] and this reflects a general shift away from behavioral measurement in psychology [3,4]. In a recent article, we tested the predictive ability of popular assessment inventories used to quantify smartphone usage. These inventories did not align well with even the most basic measures of objective behavior, including those associated with compulsive use (e.g., rapid checking) [1,5]. It remains unclear exactly what these assessment inventories are measuring. Interestingly, survey items are conceptually very similar to depression and anxiety scales. This alone may explain small negative associations between technology use and mood.  ",
+                        "ObjId": "31",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "0",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1319962",
+                                            "759.012024",
+                                            "105.059998",
+                                            "767.315979"
+                                        ],
+                                        "Text": "Zendle"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "105.259995",
+                                            "759.119995",
+                                            "105.259995",
+                                            "759.119995"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.463997",
+                                            "758.963989",
+                                            "161.828003",
+                                            "767.315979"
+                                        ],
+                                        "Text": "and Bowen"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "162.488007",
+                                            "761.447998",
+                                            "165.440002",
+                                            "762.203979"
+                                        ],
+                                        "Text": "-"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "166.099991",
+                                            "756.515991",
+                                            "522.883972",
+                                            "767.315979"
+                                        ],
+                                        "Text": "Jones are correct when they point towards methodological shortcomings in "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.083992",
+                                            "742.708008",
+                                            "522.743958",
+                                            "753.495972"
+                                        ],
+                                        "Text": "research that aims to understand the impact of social media [1]. However, these observations "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4679947",
+                                            "728.895996",
+                                            "461.748047",
+                                            "739.695984"
+                                        ],
+                                        "Text": "also apply to related research, which considers the impact of technology use mo"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "462.519989",
+                                            "728.895996",
+                                            "523.011963",
+                                            "739.695984"
+                                        ],
+                                        "Text": "re generally. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2159958",
+                                            "715.096008",
+                                            "522.828003",
+                                            "725.895996"
+                                        ],
+                                        "Text": "Designs typically involve asking people to consider their personal experience with technology "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "73.0799942",
+                                            "701.296021",
+                                            "522.744019",
+                                            "712.096008"
+                                        ],
+                                        "Text": "[2] and this reflects a general shift away from behavioral measurement in psychology [3,4]. In "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4679947",
+                                            "687.495972",
+                                            "324.516022",
+                                            "698.295959"
+                                        ],
+                                        "Text": "a recent article, we tested the predictive ability of"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "324.070007",
+                                            "690.099976",
+                                            "324.070007",
+                                            "690.099976"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "329.049988",
+                                            "687.507996",
+                                            "522.981995",
+                                            "698.295959"
+                                        ],
+                                        "Text": "popular assessment inventories used to "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3119965",
+                                            "673.695984",
+                                            "522.719971",
+                                            "684.495972"
+                                        ],
+                                        "Text": "quantify smartphone usage. These inventories did not align well with even the most basic "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2159958",
+                                            "659.895996",
+                                            "522.779968",
+                                            "670.695984"
+                                        ],
+                                        "Text": "measures of objective behavior, including those associated with compulsive use (e.g., rapid "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3239975",
+                                            "646.096008",
+                                            "240.444031",
+                                            "656.895996"
+                                        ],
+                                        "Text": "checking) [1,5]. It remains unclear"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "240.529999",
+                                            "648.700012",
+                                            "240.529999",
+                                            "648.700012"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "244.430008",
+                                            "646.096008",
+                                            "522.842041",
+                                            "656.895996"
+                                        ],
+                                        "Text": "exactly what these assessment inventories are measuring. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2399979",
+                                            "632.296021",
+                                            "522.804016",
+                                            "643.096008"
+                                        ],
+                                        "Text": "Interestingly, survey items are conceptually very similar to depression and anxiety scales. This "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4679947",
+                                            "618.495972",
+                                            "465.467957",
+                                            "629.295959"
+                                        ],
+                                        "Text": "alone may explain small negative associations between technology use and mood. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "468.700012",
+                                            "621.099976",
+                                            "468.700012",
+                                            "621.099976"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " ",
+                        "ObjId": "32",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "1",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0239944",
+                                            "607.299988",
+                                            "72.0239944",
+                                            "607.299988"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "Alongside these limitations, narratives surrounding the mass adoption of new technologies are almost always negative. In response, researchers might want to start asking themselves exactly why or how the use of social communication technology would cause harm and develop more suitable measures accordingly. Social media is certainly not the first technology to be associated with potentially ‘addictive’ or negative societal impacts [6,7], nor will it be the last. Moral panics concerning new technology (e.g., the printing press, the telephone, microwaves, the internet, social media) are, historically speaking, either overblown or demonstrably false.  ",
+                        "ObjId": "33",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "2",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2039948",
+                                            "590.895996",
+                                            "170.664001",
+                                            "601.695984"
+                                        ],
+                                        "Text": "Alongside these limi"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "171.17601",
+                                            "590.895996",
+                                            "522.895996",
+                                            "601.695984"
+                                        ],
+                                        "Text": "tations, narratives surrounding the mass adoption of new technologies are "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4679947",
+                                            "577.096008",
+                                            "522.875977",
+                                            "587.895996"
+                                        ],
+                                        "Text": "almost always negative. In response, researchers might want to start asking themselves exactly "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2759933",
+                                            "563.265991",
+                                            "522.708008",
+                                            "574.065979"
+                                        ],
+                                        "Text": "why or how the use of social communication technology would cause harm and develop more"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "523.059998",
+                                            "565.869995",
+                                            "523.059998",
+                                            "565.869995"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.635994",
+                                            "549.466003",
+                                            "522.660034",
+                                            "560.265991"
+                                        ],
+                                        "Text": "suitable measures accordingly. Social media is certainly not the first technology to be "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4559937",
+                                            "535.690002",
+                                            "522.791992",
+                                            "546.718018"
+                                        ],
+                                        "Text": "associated with potentially ‘addictive’ or negative societal impacts [6,7], nor will it be the last. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1679916",
+                                            "521.866028",
+                                            "388.139984",
+                                            "532.666016"
+                                        ],
+                                        "Text": "Moral panics concerning new technology (e.g., the printing press, "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "391.666016",
+                                            "521.878052",
+                                            "522.958069",
+                                            "532.666016"
+                                        ],
+                                        "Text": "the telephone, microwaves, "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1799927",
+                                            "508.06601",
+                                            "517.307983",
+                                            "518.866028"
+                                        ],
+                                        "Text": "the internet, social media) are, historically speaking, either overblown or demonstrably false. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "520.659973",
+                                            "510.670013",
+                                            "520.659973",
+                                            "510.670013"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " ",
+                        "ObjId": "34",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "3",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0239944",
+                                            "496.869995",
+                                            "72.0239944",
+                                            "496.869995"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "Understanding the impact of technology on people and society remains crucial, but clinicians and researchers might also want to consider what drives ‘technophobia’ in the first place.  ",
+                        "ObjId": "35",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "4",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1919937",
+                                            "480.466003",
+                                            "522.695984",
+                                            "491.266022"
+                                        ],
+                                        "Text": "Understanding the impact of technology on people and society remains crucial, but clinicians "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4679947",
+                                            "466.666016",
+                                            "258.384003",
+                                            "477.466034"
+                                        ],
+                                        "Text": "and researchers might also want to con"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "259.238007",
+                                            "466.71402",
+                                            "499.802002",
+                                            "477.718018"
+                                        ],
+                                        "Text": "sider what drives ‘technophobia’ in the first place. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "503.019989",
+                                            "469.27002",
+                                            "503.019989",
+                                            "469.27002"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " ",
+                        "ObjId": "36",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "5",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0239944",
+                                            "455.470001",
+                                            "72.0239944",
+                                            "455.470001"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": " ",
+                        "ObjId": "37",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "6",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0239944",
+                                            "441.670013",
+                                            "72.0239944",
+                                            "441.670013"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "1.  Ellis DA, Davidson BI, Shaw H, Geyer K. (2019). Do smartphone usage scales predict behavior? International Journal of Human-Computer Studies, Special Issue on Human Accuracy. DOI: 10.1016\/j.ijhcs.2019.05.004  ",
+                        "ObjId": "38",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "7",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "73.3559952",
+                                            "427.75",
+                                            "81.0239944",
+                                            "435.981995"
+                                        ],
+                                        "Text": "1. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "427.869995",
+                                            "84.0239944",
+                                            "427.869995"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.163994",
+                                            "425.265991",
+                                            "522.895996",
+                                            "436.06601"
+                                        ],
+                                        "Text": "Ellis DA, Davidson BI, Shaw H, Geyer K. (2019). Do smartphone usage scales predict "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.0599976",
+                                            "413.914001",
+                                            "289.416016",
+                                            "422.266022"
+                                        ],
+                                        "Text": "behavior? International Journal of Human"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "290.197998",
+                                            "416.39801",
+                                            "293.150024",
+                                            "417.154022"
+                                        ],
+                                        "Text": "-"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "294.026001",
+                                            "411.477997",
+                                            "522.854004",
+                                            "422.266022"
+                                        ],
+                                        "Text": "Computer Studies, Special Issue on Human "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2039948",
+                                            "397.666016",
+                                            "225.095978",
+                                            "408.466034"
+                                        ],
+                                        "Text": "Accuracy. DOI: 10.1016\/j.ijhcs."
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "226.369995",
+                                            "400.018005",
+                                            "286.01001",
+                                            "408.406006"
+                                        ],
+                                        "Text": "2019.05.004 "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "289.01001",
+                                            "400.27002",
+                                            "289.01001",
+                                            "400.27002"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "2.  Ellis DA. Are smartphones really that bad? Improving the psychological measurement of technology-related behaviors. (2019). Computers in Human Behavior. DOI: 10.1016\/j.chb.2019.03.006 ",
+                        "ObjId": "39",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "8",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3839951",
+                                            "386.329987",
+                                            "81.0239944",
+                                            "394.561981"
+                                        ],
+                                        "Text": "2. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "386.449982",
+                                            "84.0239944",
+                                            "386.449982"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.163994",
+                                            "383.845978",
+                                            "522.944031",
+                                            "394.645996"
+                                        ],
+                                        "Text": "Ellis DA. Are smartphones really that bad? Improving the psychological measurement "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.371994",
+                                            "370.04599",
+                                            "147.287994",
+                                            "380.846008"
+                                        ],
+                                        "Text": "of technology"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "147.848007",
+                                            "374.977997",
+                                            "150.800003",
+                                            "375.734009"
+                                        ],
+                                        "Text": "-"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "151.519989",
+                                            "370.057983",
+                                            "522.752014",
+                                            "380.846008"
+                                        ],
+                                        "Text": "related behaviors. (2019). Computers in Human Behavior. DOI: "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "73.3559952",
+                                            "356.245972",
+                                            "200.663971",
+                                            "367.04599"
+                                        ],
+                                        "Text": "10.1016\/j.chb.2019.03.006"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "201.050003",
+                                            "358.849976",
+                                            "201.050003",
+                                            "358.849976"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "3.  Doliński D. (2018). Is Psychology Still a Science of Behaviour? Social Psychological Bulletin. 13. e25025 ",
+                        "ObjId": "40",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "9",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.5399933",
+                                            "344.893982",
+                                            "81.0239944",
+                                            "353.161987"
+                                        ],
+                                        "Text": "3. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "345.049988",
+                                            "84.0239944",
+                                            "345.049988"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.223999",
+                                            "342.470001",
+                                            "355.664001",
+                                            "353.497986"
+                                        ],
+                                        "Text": "Doliński D. (2018). Is Psychology Still a Science o"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "356.589966",
+                                            "342.445984",
+                                            "522.89801",
+                                            "353.246002"
+                                        ],
+                                        "Text": "f Behaviour? Social Psychological "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2279968",
+                                            "331.093994",
+                                            "169.175995",
+                                            "339.446014"
+                                        ],
+                                        "Text": "Bulletin. 13. e25025"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "170.059998",
+                                            "331.25",
+                                            "170.059998",
+                                            "331.25"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "4.  Sassenberg K, Ditrich L. (2019). Research in Social Psychology Changed Between 2011 and 2016: Larger Sample Sizes, More Self-Report Measures, and More Online Studies. Advances in Methods and Practices in Psychological Science. DOI: 10.1177\/2515245919838781  ",
+                        "ObjId": "41",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "10",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.1679916",
+                                            "317.329987",
+                                            "81.0239944",
+                                            "325.561981"
+                                        ],
+                                        "Text": "4. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "317.449982",
+                                            "84.0239944",
+                                            "317.449982"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.523994",
+                                            "314.845978",
+                                            "522.667969",
+                                            "325.645996"
+                                        ],
+                                        "Text": "Sassenberg K, Ditrich L. (2019). Research in Social Psychology Changed Between "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3839951",
+                                            "301.04599",
+                                            "306.455963",
+                                            "311.846008"
+                                        ],
+                                        "Text": "2011 and 2016: Larger Sample Sizes, More Self"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "306.537994",
+                                            "305.977997",
+                                            "309.490021",
+                                            "306.734009"
+                                        ],
+                                        "Text": "-"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "310.354004",
+                                            "301.057983",
+                                            "522.885986",
+                                            "311.846008"
+                                        ],
+                                        "Text": "Report Measures, and More Online Studies. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2039948",
+                                            "289.69397",
+                                            "290.579987",
+                                            "298.04599"
+                                        ],
+                                        "Text": "Advances in Methods and Practi"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "291.349976",
+                                            "287.245972",
+                                            "522.830017",
+                                            "298.04599"
+                                        ],
+                                        "Text": "ces in Psychological Science. DOI: "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "73.3559952",
+                                            "275.797974",
+                                            "210.359985",
+                                            "284.185974"
+                                        ],
+                                        "Text": "10.1177\/2515245919838781 "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "213.409988",
+                                            "276.049988",
+                                            "213.409988",
+                                            "276.049988"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "5.  Andrews S, Ellis DA, Shaw H, Piwek L. (2015). Beyond self-report: Tools to compare estimated and real-world smartphone use. PLoS One. DOI: 10.1371\/journal.pone.0139004 ",
+                        "ObjId": "42",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "11",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.4079971",
+                                            "262.093994",
+                                            "81.0239944",
+                                            "270.385986"
+                                        ],
+                                        "Text": "5. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "262.25",
+                                            "84.0239944",
+                                            "262.25"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.199997",
+                                            "259.645996",
+                                            "400.771973",
+                                            "270.446014"
+                                        ],
+                                        "Text": "Andrews S, Ellis DA, Shaw H, Piwek L. (2015). Beyond self"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "400.857971",
+                                            "264.578003",
+                                            "403.809998",
+                                            "265.334015"
+                                        ],
+                                        "Text": "-"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "404.409973",
+                                            "259.65799",
+                                            "523.005981",
+                                            "270.446014"
+                                        ],
+                                        "Text": "report: Tools to compare "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.3239975",
+                                            "248.341995",
+                                            "158.964005",
+                                            "256.645996"
+                                        ],
+                                        "Text": "estimated and real"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "159.727997",
+                                            "250.778",
+                                            "162.679993",
+                                            "251.533997"
+                                        ],
+                                        "Text": "-"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "163.472",
+                                            "245.845993",
+                                            "505.771942",
+                                            "256.645996"
+                                        ],
+                                        "Text": "world smartphone use. PLoS One. DOI: 10.1371\/journal.pone.0139004"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "506.26001",
+                                            "248.449997",
+                                            "506.26001",
+                                            "248.449997"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "6.  Parker S. Science Discoveries: Alexander Graham Bell. Philadelphia, USA: Chelsea House Publishers; 1995.  ",
+                        "ObjId": "43",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "12",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.5519943",
+                                            "234.494003",
+                                            "81.0239944",
+                                            "242.498016"
+                                        ],
+                                        "Text": "6. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "234.650009",
+                                            "84.0239944",
+                                            "234.650009"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.211998",
+                                            "234.494003",
+                                            "206.636017",
+                                            "242.846008"
+                                        ],
+                                        "Text": "Parker S. Science D"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "207.362015",
+                                            "232.058014",
+                                            "522.841919",
+                                            "242.846008"
+                                        ],
+                                        "Text": "iscoveries: Alexander Graham Bell. Philadelphia, USA: Chelsea "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2519913",
+                                            "219.170013",
+                                            "188.999985",
+                                            "229.046005"
+                                        ],
+                                        "Text": "House Publishers; 1995. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "192.050003",
+                                            "220.850006",
+                                            "192.050003",
+                                            "220.850006"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "S": "P",
+                        "Text": "7.  Edgerton D. (1995). Technophobia then and now. Nature. 376(6542):653–4. ",
+                        "ObjId": "44",
+                        "Pg": "2",
+                        "K": [
+                            {
+                                "Pg": "2",
+                                "MCID": "13",
+                                "Content": [
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "72.2639923",
+                                            "206.900009",
+                                            "81.0239944",
+                                            "214.964005"
+                                        ],
+                                        "Text": "7. "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "84.0239944",
+                                            "207.020004",
+                                            "84.0239944",
+                                            "207.020004"
+                                        ],
+                                        "Text": " "
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "108.163994",
+                                            "204.416",
+                                            "458.983978",
+                                            "215.216003"
+                                        ],
+                                        "Text": "Edgerton D. (1995). Technophobia then and now. Nature. 376(6542):653"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "459.843994",
+                                            "209.671997",
+                                            "466.036011",
+                                            "210.152008"
+                                        ],
+                                        "Text": "–"
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "466.20401",
+                                            "206.900009",
+                                            "474.231995",
+                                            "215.132004"
+                                        ],
+                                        "Text": "4."
+                                    },
+                                    {
+                                        "Type": "Text",
+                                        "BBox": [
+                                            "475.059998",
+                                            "207.020004",
+                                            "475.059998",
+                                            "207.020004"
+                                        ],
+                                        "Text": " "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

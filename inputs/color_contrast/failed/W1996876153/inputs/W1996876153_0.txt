@@ -1,0 +1,11 @@
+Unique Foreground and Background Colors with Text:
+
+Foreground: #6D6E71, Background: #FFFFFF
+
+Foreground: #DCFF44, Background: #FFFFFF
+
+Foreground: black, Background: #FFFFFF
+
+Foreground: #231F20, Background: #FFFFFF
+
+Foreground: #1D1D1B, Background: #FFFFFF

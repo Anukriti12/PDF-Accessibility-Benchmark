@@ -1,0 +1,95 @@
+01. Handling of Thermal Receipts as a Source of Exposure to Bisphenol A
+02. 1  and neurodevelopment in children exposed perinatally. 2  Exposure to BPA is primarily through dietary ingestion, including consumption of canned foods. 3  A less-studied source of exposure is thermal receipt paper, 4  handled daily by many people at supermarkets, ATM machines, gas stations, and other settings. We hypothesized that handling of thermal receipts significantly increases BPA exposure, but use of gloves during handling minimizes exposure.
+03. 1
+04. 2
+05. 3
+06. 4
+07. Author Contributions: Dr Ehrlich had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+08. All participants provided a spot urine sample, collected in a sterile BPA-free polypropylene specimen cup, immediately before handling of receipts and 4 hours later. Volunteers provided additional sequential urine samples at 8, 12, and 24 hours after handling of receipts without gloves. Urinary-specific gravity was measured using a handheld refractometer. Urine was stored in polypropylene cryogenic vials at or below −20°C until analysis. Total (free plus conjugated species) urinary BPA concentration was measured at the US Centers for Disease Control and Prevention using published methods. 1
+09. 1
+10. 1
+11. The clinical implications of the height of the peak level and the
+12. 3
+13. In this pilot study, we observed an increase in urinary BPA concentrations after continuously handling receipts for 2 hours without gloves, but no significant increase when using gloves. The peak level (5.8 µg/L) was lower than that observed after canned soup consumption (20.8µg/L).
+14. Concentrations of BPA were adjusted for specific gravity to account for urine dilution.
+15. Using SAS version 9.3 (SAS Institute Inc), mixed regression models were used to examine associations between log-transformed specific gravity–adjusted urinary BPA concentrations for prehandling and posthandling samples and across time points for those who provided sequential urine samples. Statistical significance was set at a P ≤ .05 (2-sided test).
+16. receipts wearing nitrile gloves. The option to participate in the second simulation or to provide sequential urine samples following the first simulation was offered to all participants at study entry.
+17. Results
+18. Twenty-four volunteers (mean age [SD], 35 [12] years) provided at least 2 urine samples for the simulation without gloves; 12 volunteers provided additional sequential samples and 12 also completed the simulation with gloves (Table). We excluded 1 participant for reporting consumption of 4 cans of beverage prior to the simulation (baseline urinary BPA concentration of 49.3 µg/L vs <2 µg/L for the remaining participants, decreasing to 12.0 µg/L postsimulation).
+19. We detected BPA in 83% (n = 20) of samples at baseline and in 100% of samples after handling receipts without gloves. The geometric mean urinary BPA concentration was 1.8 µg/L (95% CI, 1.3–2.4 µg/L) before simulation and 5.8 µg/L (95% CI, 4.0–8.4 µg/L) postsimulation (P = .005 for interaction between presimulation and postsimulation BPA and glove status). The geometric mean BPA urinary concentrations from 12 participants who provided sequential samples following receipt handling without gloves were 2.1 µg/L (95% CI, 1.4–3.3 µg/L) at baseline, 6.0 µg/L (95% CI, 3.4–10.7 µg/L) at 4 hours, 11.1 µg/L (95% CI, 5.5–22.8 µg/L) at 8 hours, 10.5 µg/L (95%CI, 4.9–22.6 µg/L) at 12 hours, and 4.7 µg/L (95%CI, 2.4–9.1 µg/L) at 24 hours. Each measure was significantly different from baseline (P < .001 for 4-hour, 8-hour, and 12-hour urine samples and P = .04 for 24-hour samples). We observed no significant increase in urinary BPA after handling receipts with gloves (Figure).
+20. Discussion
+21. 5  who handle receipts 40 or more hours per week.
+22. 5
+23. 5
+24. Limitations include the small volunteer sample and loss of participants in the second simulation. However, urinary BPA concentrations at baseline were similar in the full and smaller groups and similar to the US population (1.83 µg/L). 6  A larger study is needed to confirm our findings and evaluate the clinical implications.
+25. 6
+26. 6
+27. References
+28. Acknowledgments
+29. Funding/Support: This project was supported by grant 2 T42 OH008416-05 from the Harvard-NIOSH Education and Research Center.
+30. Role of the Sponsor: The Harvard-NIOSH Education and Research Center had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+31. Additional Contributions: We thank Lori Torf (Harvard School of Public Health cafeteria) for providing us with access to the cafeteria cash registers for the simulations. We also thank the Hauser staff for assistance with storage of samples and supplies, Greg Wagner, MD (Harvard School of Public Health), for his advice and support at the start of the study, and Xiaoyun Ye, MS, Xiaoliu Zhou, MS, Tao Jia, MS, and Joshua Kramer (all 4 with the CDC) for technical assistance in measuring urinary bisphenol A. None of the individuals acknowledged were compensated for their contributions.
+32. chronicity of exposure are unknown, but may be particularly relevant to occupationally exposed populations such as cashiers,
+33. 1. Ehrlich S, Williams PL, Missmer SA, et al. Urinary bisphenol A concentrations and early reproductive health outcomes among women undergoing IVF. Hum Reprod. 2012; 27(12):3583–3592. [PubMed: 23014629]
+34. 2. Braun JM, Kalkbrenner AE, Calafat AM, et al. Impact of early-life bisphenol A exposure on behavior and executive function in children. Pediatrics. 2011; 128(5):873–882. [PubMed: 22025598]
+35. 3. Carwile JL, Ye X, Zhou X, Calafat AM, Michels KB. Canned soup consumption and urinary bisphenol A: a randomized crossover trial. JAMA. 2011; 306(20):2218–2220. [PubMed: 22110104]
+36. 4. Biedermann S, Tschudin P, Grob K. Transfer of bisphenol A from thermal printer paper to the skin. Anal Bioanal Chem. 2010; 398(1):571–576. [PubMed: 20623271]
+37. 5. Braun JM, Kalkbrenner AE, Calafat AM, et al. Variability and predictors of urinary bisphenol A concentrations during pregnancy. Environ Health Perspect. 2011; 119(1):131–137. [PubMed: 21205581]
+38. 6. Centers for Disease Control and Prevention, National Center for Environmental Health. [January 25, 2014] Fourth national report on human exposure to environmental chemicals, updated tables. 2013 Sep. http://www.cdc.gov/exposurereport/ .
+39. http://www.cdc.gov/exposurereport/
+40. Adjusted BPA at 0 hours (baseline).
+41. Error bars indicate 95%confidence intervals. NHANES indicates National Health and Nutrition Examination Survey.
+42. a
+43. a
+44. b
+45. b
+46. Figure. Geometric Mean–Specific Gravity-Adjusted Urinary Bisphenol A (BPA) Concentration
+47. Adjusted BPA at 4 hours (handled receipts for 2 hours).
+48. Table
+49. Demographic Characteristics of 24 Study Participants
+50. With Gloves
+51. 19 (79)
+52. Simulation Without Gloves (n = 24) a
+53. a
+54. Sequential Urine
+55. Samples (n = 12)
+56. (n = 12)
+57. a
+58. a
+59. 8 (67)
+60. 9 (75)
+61. Male
+62. 5 (21)
+63. 4 (33)
+64. 3 (25)
+65. Age, mean (SD) [range], y
+66. 35 (12) [26–71]
+67. 33 (12) [26–71]
+68. 34 (13) [26–71]
+69. Ethnicity, No. (%)
+70. White a
+71. a
+72. 15 (63)
+73. 9 (75)
+74. 7 (58)
+75. Black
+76. 5 (21)
+77. 2 (17)
+78. 2 (17)
+79. Asian
+80. 4 (17)
+81. 1 (1)
+82. 3 (25)
+83. Specific gravity–adjusted bisphenol A at baseline, geometric mean (95% CI), µg/L
+84. 1.8 (1.3–2.4)
+85. 2.1 (1.4–3.3)
+86. 1.3 (0.8–2.1) b
+87. b
+88. a One participant was excluded from final analyses because of high background exposure to bisphenol A from consuming 4 cans of cold beverage (had urinary-specific gravity–adjusted bisphenol A concentration 25-fold higher than the National Health and Nutrition Examination Survey 2009-2010 geometric mean of 1.83 µg/L 6 ).
+89. a
+90. a
+91. 6
+92. 6
+93. b There was no statistically significant baseline difference for simulations with gloves vs without gloves (P = .76).
+94. b
+95. b
