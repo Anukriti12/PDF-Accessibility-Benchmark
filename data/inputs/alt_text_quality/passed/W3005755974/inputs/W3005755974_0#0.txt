@@ -1,0 +1,14 @@
+A detailed specification curve analysis showing the association between years of education and risk preference. The figure has two main sections: the top section displays a line graph titled "Specification curve" and the bottom section titled "Specification panel" summarizes the independent and dependent variables used in the analysis.
+
+Top Section (Specification Curve):
+The x-axis represents different model specifications numbered from 1 to 4352.
+The y-axis represents the effect size of years of education on risk preference, ranging from -0.50 to 0.50.
+The curve shows a downward trend from positive effect sizes on the left to near-zero and slightly negative values on the right.
+Shaded confidence intervals surround the curve, indicating statistical uncertainty for each model.
+Two curves are highlighted: one for the best fit: box specification and one for the best fit: Gaussian specification.
+
+Bottom Section (Specification Panel):
+A heatmap with rows and columns represents the inclusion of independent variables, dependent variables, and other model parameters across specifications.
+Independent variables include household income, sex, age, fluid intelligence, crystallized intelligence, employment status, and time use (social and sports).
+Dependent variables include general, driving, investment, health, and risky choices under different measures (e.g., DFE1, DFE2, DFD1).
+Purple horizontal lines indicate the presence of variables in each specification, while gray shading separates groups of dependent variables.

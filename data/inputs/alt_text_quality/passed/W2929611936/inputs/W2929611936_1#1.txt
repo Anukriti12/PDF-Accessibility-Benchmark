@@ -1,0 +1,5 @@
+Panel A
+A contour plot showing the change in test statistic (ΔTS) as a function of the spectral index parameter (γ) and the fluence at 100 TeV (E²J100). The x-axis represents the spectral index (γ) ranging from 1.5 to 2.5, and the y-axis shows fluence (E²J100) in units of 10⁻⁷ TeV cm⁻². The white dot marks the best-fitting values, while the contours represent 68% and 95% confidence levels assuming Wilks' theorem. The ΔTS values are higher towards the center, indicating the best fit for the parameters.
+
+Panel B
+A skymap showing the P-values for the time-dependent analysis performed at the coordinates of TXS 0506+056 and surrounding regions. The x-axis represents Right Ascension (degrees), and the y-axis represents Declination (degrees). The location of TXS 0506+056 is marked with a cross, with a concentration of red and yellow colors indicating areas of lower P-values and thus higher significance. The Gaussian-shaped time window analysis highlights a clustering of significant events around the coordinates of TXS 0506+056.

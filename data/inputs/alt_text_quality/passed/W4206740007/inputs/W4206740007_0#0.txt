@@ -1,0 +1,14 @@
+Panel A: Experimental Design Flowchart
+A flowchart outlining the design of Experiment 2, consisting of three phases: Familiarization, Anticipation, and Peek-a-Boo. In the Familiarization phase, participants watched alternating videos of two actions: “Food Sharing” (depicted by an adult giving food to a puppet) and “Ball Passing” (an adult passing a ball to the puppet). In the Anticipation phase, participants were shown videos with different test and control conditions. The test condition included “crying noises” to elicit responses, while the control conditions either included “crying noises” or a ball. The final Peek-a-Boo phase displays images of two adults engaging in peek-a-boo with smiles and hands near their faces.
+
+Panel B: Results for Toddlers in Anticipation and Peek-a-Boo Tasks
+Three sets of plots showing toddlers’ looking behavior across test and control conditions:
+First Look (Bar Plot): The left plot shows the percentage of toddlers who first looked at the food-sharer (orange bars) versus the ball-passer (grey bars). The percentages are significantly higher in the test conditions (2A-E, 2C) compared to controls.
+Proportion of Time Looking (Box Plot): The middle plot shows the proportion of time toddlers spent looking at the food-sharer during the pause. Test conditions show higher proportions compared to controls, with individual data points marked as dots and black diamonds indicating means.
+Peek-a-Boo Proportion Look (Box Plot): The right plot shows toddlers’ proportion of looking time during the peek-a-boo phase, with no significant difference between test and control conditions.
+
+Panel C: Results for Infants in Anticipation and Peek-a-Boo Tasks
+Three sets of plots showing infants’ looking behavior across test and control conditions:
+First Look (Bar Plot): The left plot shows the percentage of infants who first looked at the food-sharer (orange bars) versus the ball-passer (grey bars). Similar to toddlers, infants show a preference for the food-sharer in the test conditions.
+Proportion of Time Looking (Box Plot): The middle plot displays the proportion of time infants spent looking at the food-sharer. The test conditions show greater looking proportions compared to controls, with dots representing individual values and black diamonds indicating means.
+Peek-a-Boo Proportion Look (Box Plot): The right plot illustrates the proportion of time infants spent looking during the peek-a-boo phase, with no clear difference between test and control conditions.
